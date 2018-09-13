@@ -1,0 +1,22 @@
+name: outline_material_icons
+description: Provides the new outline theme of material design icons from Google.
+version: 0.0.1
+author: Lucas Levin
+homepage: https://github.com/lucaslcode
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: outline_material_icons
+      fonts:
+        - asset: lib/outline_material_icons.ttf
