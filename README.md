@@ -10,7 +10,9 @@ These icons were downloaded in September 2018, they may be updated in the future
 
 Add the package to pubspec.yaml and use the OMIcons class.
 
-```  Widget build(BuildContext context) => Icon(OMIcons.sentimentSatisfied); ```
+```
+  Widget build(BuildContext context) => Icon(OMIcons.sentimentSatisfied);
+```
 
 Browse available icons using the example app or the Material Design icons website above.
 
