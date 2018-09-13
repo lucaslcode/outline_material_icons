@@ -2,6 +2,8 @@
 
 This package provides the 'outline' theme of icons on the [Material Design website](https://material.io/tools/icons/), which is not available in Flutter or as a .ttf font file.
 
+![Example](screenshot.png)
+
 These icons were downloaded in September 2018, they may be updated in the future.
 
 ## Usage
