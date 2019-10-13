@@ -3,249 +3,249 @@ library outline_material_icons;
 import 'package:flutter/widgets.dart';
 
 class OMIcons {
-    /// ![](https://material.io/tools/icons/static/icons/outline-360-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/360/v1/24px.svg)
     static const IconData icon360 = _OMIconData(0xe900);
-    /// ![](https://material.io/tools/icons/static/icons/outline-ac_unit-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/ac_unit/v1/24px.svg)
     static const IconData acUnit = _OMIconData(0xe901);
-    /// ![](https://material.io/tools/icons/static/icons/outline-access_alarm-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/access_alarm/v1/24px.svg)
     static const IconData accessAlarm = _OMIconData(0xe902);
-    /// ![](https://material.io/tools/icons/static/icons/outline-access_alarms-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/access_alarms/v1/24px.svg)
     static const IconData accessAlarms = _OMIconData(0xe903);
-    /// ![](https://material.io/tools/icons/static/icons/outline-access_time-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/access_time/v1/24px.svg)
     static const IconData accessTime = _OMIconData(0xe904);
-    /// ![](https://material.io/tools/icons/static/icons/outline-accessibility_new-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/accessibility_new/v1/24px.svg)
     static const IconData accessibilityNew = _OMIconData(0xe905);
-    /// ![](https://material.io/tools/icons/static/icons/outline-accessibility-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/accessibility/v1/24px.svg)
     static const IconData accessibility = _OMIconData(0xe906);
-    /// ![](https://material.io/tools/icons/static/icons/outline-accessible_forward-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/accessible_forward/v1/24px.svg)
     static const IconData accessibleForward = _OMIconData(0xe907);
-    /// ![](https://material.io/tools/icons/static/icons/outline-accessible-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/accessible/v1/24px.svg)
     static const IconData accessible = _OMIconData(0xe908);
-    /// ![](https://material.io/tools/icons/static/icons/outline-account_balance_wallet-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/account_balance_wallet/v1/24px.svg)
     static const IconData accountBalanceWallet = _OMIconData(0xe909);
-    /// ![](https://material.io/tools/icons/static/icons/outline-account_balance-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/account_balance/v1/24px.svg)
     static const IconData accountBalance = _OMIconData(0xe90a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-account_box-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/account_box/v1/24px.svg)
     static const IconData accountBox = _OMIconData(0xe90b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-account_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/account_circle/v1/24px.svg)
     static const IconData accountCircle = _OMIconData(0xe90c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-adb-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/adb/v1/24px.svg)
     static const IconData adb = _OMIconData(0xe90d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_a_photo-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_a_photo/v1/24px.svg)
     static const IconData addAPhoto = _OMIconData(0xe90e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_alarm-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_alarm/v1/24px.svg)
     static const IconData addAlarm = _OMIconData(0xe90f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_alert-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_alert/v1/24px.svg)
     static const IconData addAlert = _OMIconData(0xe910);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_box-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_box/v1/24px.svg)
     static const IconData addBox = _OMIconData(0xe911);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_circle_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_circle_outline/v1/24px.svg)
     static const IconData addCircleOutline = _OMIconData(0xe912);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_circle/v1/24px.svg)
     static const IconData addCircle = _OMIconData(0xe913);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_comment-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_comment/v1/24px.svg)
     static const IconData addComment = _OMIconData(0xe914);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_location-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_location/v1/24px.svg)
     static const IconData addLocation = _OMIconData(0xe915);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_photo_alternate-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_photo_alternate/v1/24px.svg)
     static const IconData addPhotoAlternate = _OMIconData(0xe916);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_shopping_cart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_shopping_cart/v1/24px.svg)
     static const IconData addShoppingCart = _OMIconData(0xe917);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_to_home_screen-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_to_home_screen/v1/24px.svg)
     static const IconData addToHomeScreen = _OMIconData(0xe918);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_to_photos-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_to_photos/v1/24px.svg)
     static const IconData addToPhotos = _OMIconData(0xe919);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add_to_queue-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add_to_queue/v1/24px.svg)
     static const IconData addToQueue = _OMIconData(0xe91a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-add-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/add/v1/24px.svg)
     static const IconData add = _OMIconData(0xe91b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-adjust-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/adjust/v1/24px.svg)
     static const IconData adjust = _OMIconData(0xe91c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airline_seat_flat_angled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airline_seat_flat_angled/v1/24px.svg)
     static const IconData airlineSeatFlatAngled = _OMIconData(0xe91d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airline_seat_flat-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airline_seat_flat/v1/24px.svg)
     static const IconData airlineSeatFlat = _OMIconData(0xe91e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airline_seat_individual_suite-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airline_seat_individual_suite/v1/24px.svg)
     static const IconData airlineSeatIndividualSuite = _OMIconData(0xe91f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airline_seat_legroom_extra-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airline_seat_legroom_extra/v1/24px.svg)
     static const IconData airlineSeatLegroomExtra = _OMIconData(0xe920);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airline_seat_legroom_normal-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airline_seat_legroom_normal/v1/24px.svg)
     static const IconData airlineSeatLegroomNormal = _OMIconData(0xe921);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airline_seat_legroom_reduced-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airline_seat_legroom_reduced/v1/24px.svg)
     static const IconData airlineSeatLegroomReduced = _OMIconData(0xe922);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airline_seat_recline_extra-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airline_seat_recline_extra/v1/24px.svg)
     static const IconData airlineSeatReclineExtra = _OMIconData(0xe923);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airline_seat_recline_normal-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airline_seat_recline_normal/v1/24px.svg)
     static const IconData airlineSeatReclineNormal = _OMIconData(0xe924);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airplanemode_active-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airplanemode_active/v1/24px.svg)
     static const IconData airplanemodeActive = _OMIconData(0xe925);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airplanemode_inactive-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airplanemode_inactive/v1/24px.svg)
     static const IconData airplanemodeInactive = _OMIconData(0xe926);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airplay-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airplay/v1/24px.svg)
     static const IconData airplay = _OMIconData(0xe927);
-    /// ![](https://material.io/tools/icons/static/icons/outline-airport_shuttle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/airport_shuttle/v1/24px.svg)
     static const IconData airportShuttle = _OMIconData(0xe928);
-    /// ![](https://material.io/tools/icons/static/icons/outline-alarm_add-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/alarm_add/v1/24px.svg)
     static const IconData alarmAdd = _OMIconData(0xe929);
-    /// ![](https://material.io/tools/icons/static/icons/outline-alarm_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/alarm_off/v1/24px.svg)
     static const IconData alarmOff = _OMIconData(0xe92a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-alarm_on-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/alarm_on/v1/24px.svg)
     static const IconData alarmOn = _OMIconData(0xe92b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-alarm-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/alarm/v1/24px.svg)
     static const IconData alarm = _OMIconData(0xe92c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-album-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/album/v1/24px.svg)
     static const IconData album = _OMIconData(0xe92d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-all_inbox-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/all_inbox/v1/24px.svg)
     static const IconData allInbox = _OMIconData(0xe92e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-all_inclusive-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/all_inclusive/v1/24px.svg)
     static const IconData allInclusive = _OMIconData(0xe92f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-all_out-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/all_out/v1/24px.svg)
     static const IconData allOut = _OMIconData(0xe930);
-    /// ![](https://material.io/tools/icons/static/icons/outline-alternate_email-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/alternate_email/v1/24px.svg)
     static const IconData alternateEmail = _OMIconData(0xe931);
-    /// ![](https://material.io/tools/icons/static/icons/outline-android-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/android/v1/24px.svg)
     static const IconData android = _OMIconData(0xe932);
-    /// ![](https://material.io/tools/icons/static/icons/outline-announcement-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/announcement/v1/24px.svg)
     static const IconData announcement = _OMIconData(0xe933);
-    /// ![](https://material.io/tools/icons/static/icons/outline-apps-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/apps/v1/24px.svg)
     static const IconData apps = _OMIconData(0xe934);
-    /// ![](https://material.io/tools/icons/static/icons/outline-archive-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/archive/v1/24px.svg)
     static const IconData archive = _OMIconData(0xe935);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_back_ios-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_back_ios/v1/24px.svg)
     static const IconData arrowBackIos = _OMIconData(0xe936);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_back-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_back/v1/24px.svg)
     static const IconData arrowBack = _OMIconData(0xe937);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_downward-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_downward/v1/24px.svg)
     static const IconData arrowDownward = _OMIconData(0xe938);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_drop_down_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_drop_down_circle/v1/24px.svg)
     static const IconData arrowDropDownCircle = _OMIconData(0xe939);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_drop_down-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_drop_down/v1/24px.svg)
     static const IconData arrowDropDown = _OMIconData(0xe93a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_drop_up-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_drop_up/v1/24px.svg)
     static const IconData arrowDropUp = _OMIconData(0xe93b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_forward_ios-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_forward_ios/v1/24px.svg)
     static const IconData arrowForwardIos = _OMIconData(0xe93c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_forward-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_forward/v1/24px.svg)
     static const IconData arrowForward = _OMIconData(0xe93d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_left-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_left/v1/24px.svg)
     static const IconData arrowLeft = _OMIconData(0xe93e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_right_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_right_alt/v1/24px.svg)
     static const IconData arrowRightAlt = _OMIconData(0xe93f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_right-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_right/v1/24px.svg)
     static const IconData arrowRight = _OMIconData(0xe940);
-    /// ![](https://material.io/tools/icons/static/icons/outline-arrow_upward-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_upward/v1/24px.svg)
     static const IconData arrowUpward = _OMIconData(0xe941);
-    /// ![](https://material.io/tools/icons/static/icons/outline-art_track-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/art_track/v1/24px.svg)
     static const IconData artTrack = _OMIconData(0xe942);
-    /// ![](https://material.io/tools/icons/static/icons/outline-aspect_ratio-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/aspect_ratio/v1/24px.svg)
     static const IconData aspectRatio = _OMIconData(0xe943);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assessment-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assessment/v1/24px.svg)
     static const IconData assessment = _OMIconData(0xe944);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assignment_ind-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assignment_ind/v1/24px.svg)
     static const IconData assignmentInd = _OMIconData(0xe945);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assignment_late-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assignment_late/v1/24px.svg)
     static const IconData assignmentLate = _OMIconData(0xe946);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assignment_return-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assignment_return/v1/24px.svg)
     static const IconData assignmentReturn = _OMIconData(0xe947);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assignment_returned-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assignment_returned/v1/24px.svg)
     static const IconData assignmentReturned = _OMIconData(0xe948);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assignment_turned_in-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assignment_turned_in/v1/24px.svg)
     static const IconData assignmentTurnedIn = _OMIconData(0xe949);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assignment-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assignment/v1/24px.svg)
     static const IconData assignment = _OMIconData(0xe94a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assistant_photo-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assistant_photo/v1/24px.svg)
     static const IconData assistantPhoto = _OMIconData(0xe94b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-assistant-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assistant/v1/24px.svg)
     static const IconData assistant = _OMIconData(0xe94c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-atm-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/atm/v1/24px.svg)
     static const IconData atm = _OMIconData(0xe94d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-attach_file-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/attach_file/v1/24px.svg)
     static const IconData attachFile = _OMIconData(0xe94e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-attach_money-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/attach_money/v1/24px.svg)
     static const IconData attachMoney = _OMIconData(0xe94f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-attachment-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/attachment/v1/24px.svg)
     static const IconData attachment = _OMIconData(0xe950);
-    /// ![](https://material.io/tools/icons/static/icons/outline-audiotrack-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/audiotrack/v1/24px.svg)
     static const IconData audiotrack = _OMIconData(0xe951);
-    /// ![](https://material.io/tools/icons/static/icons/outline-autorenew-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/autorenew/v1/24px.svg)
     static const IconData autorenew = _OMIconData(0xe952);
-    /// ![](https://material.io/tools/icons/static/icons/outline-av_timer-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/av_timer/v1/24px.svg)
     static const IconData avTimer = _OMIconData(0xe953);
-    /// ![](https://material.io/tools/icons/static/icons/outline-backspace-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/backspace/v1/24px.svg)
     static const IconData backspace = _OMIconData(0xe954);
-    /// ![](https://material.io/tools/icons/static/icons/outline-backup-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/backup/v1/24px.svg)
     static const IconData backup = _OMIconData(0xe955);
-    /// ![](https://material.io/tools/icons/static/icons/outline-ballot-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/ballot/v1/24px.svg)
     static const IconData ballot = _OMIconData(0xe956);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bar_chart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bar_chart/v1/24px.svg)
     static const IconData barChart = _OMIconData(0xe957);
-    /// ![](https://material.io/tools/icons/static/icons/outline-battery_alert-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/battery_alert/v1/24px.svg)
     static const IconData batteryAlert = _OMIconData(0xe964);
-    /// ![](https://material.io/tools/icons/static/icons/outline-battery_charging_full-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/battery_charging_full/v1/24px.svg)
     static const IconData batteryChargingFull = _OMIconData(0xe971);
-    /// ![](https://material.io/tools/icons/static/icons/outline-battery_full-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/battery_full/v1/24px.svg)
     static const IconData batteryFull = _OMIconData(0xe972);
-    /// ![](https://material.io/tools/icons/static/icons/outline-battery_std-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/battery_std/v1/24px.svg)
     static const IconData batteryStd = _OMIconData(0xe973);
-    /// ![](https://material.io/tools/icons/static/icons/outline-battery_unknown-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/battery_unknown/v1/24px.svg)
     static const IconData batteryUnknown = _OMIconData(0xe974);
-    /// ![](https://material.io/tools/icons/static/icons/outline-beach_access-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/beach_access/v1/24px.svg)
     static const IconData beachAccess = _OMIconData(0xe975);
-    /// ![](https://material.io/tools/icons/static/icons/outline-beenhere-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/beenhere/v1/24px.svg)
     static const IconData beenhere = _OMIconData(0xe976);
-    /// ![](https://material.io/tools/icons/static/icons/outline-block-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/block/v1/24px.svg)
     static const IconData block = _OMIconData(0xe977);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bluetooth_audio-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bluetooth_audio/v1/24px.svg)
     static const IconData bluetoothAudio = _OMIconData(0xe978);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bluetooth_connected-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bluetooth_connected/v1/24px.svg)
     static const IconData bluetoothConnected = _OMIconData(0xe979);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bluetooth_disabled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bluetooth_disabled/v1/24px.svg)
     static const IconData bluetoothDisabled = _OMIconData(0xe97a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bluetooth_searching-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bluetooth_searching/v1/24px.svg)
     static const IconData bluetoothSearching = _OMIconData(0xe97b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bluetooth-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bluetooth/v1/24px.svg)
     static const IconData bluetooth = _OMIconData(0xe97c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-blur_circular-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/blur_circular/v1/24px.svg)
     static const IconData blurCircular = _OMIconData(0xe97d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-blur_linear-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/blur_linear/v1/24px.svg)
     static const IconData blurLinear = _OMIconData(0xe97e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-blur_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/blur_off/v1/24px.svg)
     static const IconData blurOff = _OMIconData(0xe97f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-blur_on-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/blur_on/v1/24px.svg)
     static const IconData blurOn = _OMIconData(0xe980);
-    /// ![](https://material.io/tools/icons/static/icons/outline-book-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/book/v1/24px.svg)
     static const IconData book = _OMIconData(0xe981);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bookmark_border-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bookmark_border/v1/24px.svg)
     static const IconData bookmarkBorder = _OMIconData(0xe982);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bookmark-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bookmark/v1/24px.svg)
     static const IconData bookmark = _OMIconData(0xe983);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bookmarks-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bookmarks/v1/24px.svg)
     static const IconData bookmarks = _OMIconData(0xe984);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_all-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_all/v1/24px.svg)
     static const IconData borderAll = _OMIconData(0xe985);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_bottom-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_bottom/v1/24px.svg)
     static const IconData borderBottom = _OMIconData(0xe986);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_clear-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_clear/v1/24px.svg)
     static const IconData borderClear = _OMIconData(0xe987);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_color-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_color/v1/24px.svg)
     static const IconData borderColor = _OMIconData(0xe988);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_horizontal-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_horizontal/v1/24px.svg)
     static const IconData borderHorizontal = _OMIconData(0xe98b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_inner-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_inner/v1/24px.svg)
     static const IconData borderInner = _OMIconData(0xe98c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_left-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_left/v1/24px.svg)
     static const IconData borderLeft = _OMIconData(0xe98d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_outer-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_outer/v1/24px.svg)
     static const IconData borderOuter = _OMIconData(0xe98e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_right-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_right/v1/24px.svg)
     static const IconData borderRight = _OMIconData(0xe98f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_style-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_style/v1/24px.svg)
     static const IconData borderStyle = _OMIconData(0xe990);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_top-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_top/v1/24px.svg)
     static const IconData borderTop = _OMIconData(0xe991);
-    /// ![](https://material.io/tools/icons/static/icons/outline-border_vertical-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/border_vertical/v1/24px.svg)
     static const IconData borderVertical = _OMIconData(0xe992);
-    /// ![](https://material.io/tools/icons/static/icons/outline-branding_watermark-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/branding_watermark/v1/24px.svg)
     static const IconData brandingWatermark = _OMIconData(0xe993);
     /// ![](https://material.io/tools/icons/static/icons/outline-brightness_1-24px.svg)
     static const IconData brightness1 = _OMIconData(0xe994);
@@ -261,189 +261,189 @@ class OMIcons {
     static const IconData brightness6 = _OMIconData(0xe999);
     /// ![](https://material.io/tools/icons/static/icons/outline-brightness_7-24px.svg)
     static const IconData brightness7 = _OMIconData(0xe99a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-brightness_auto-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/brightness_auto/v1/24px.svg)
     static const IconData brightnessAuto = _OMIconData(0xe99b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-brightness_high-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/brightness_high/v1/24px.svg)
     static const IconData brightnessHigh = _OMIconData(0xe99c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-brightness_low-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/brightness_low/v1/24px.svg)
     static const IconData brightnessLow = _OMIconData(0xe99d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-brightness_medium-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/brightness_medium/v1/24px.svg)
     static const IconData brightnessMedium = _OMIconData(0xe99e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-broken_image-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/broken_image/v1/24px.svg)
     static const IconData brokenImage = _OMIconData(0xe99f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-brush-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/brush/v1/24px.svg)
     static const IconData brush = _OMIconData(0xe9a0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bubble_chart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bubble_chart/v1/24px.svg)
     static const IconData bubbleChart = _OMIconData(0xe9a1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-bug_report-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/bug_report/v1/24px.svg)
     static const IconData bugReport = _OMIconData(0xe9a2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-build-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/build/v1/24px.svg)
     static const IconData build = _OMIconData(0xe9a3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-burst_mode-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/burst_mode/v1/24px.svg)
     static const IconData burstMode = _OMIconData(0xe9a4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-business_center-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/business_center/v1/24px.svg)
     static const IconData businessCenter = _OMIconData(0xe9a5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-business-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/business/v1/24px.svg)
     static const IconData business = _OMIconData(0xe9a6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cached-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cached/v1/24px.svg)
     static const IconData cached = _OMIconData(0xe9a7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cake-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cake/v1/24px.svg)
     static const IconData cake = _OMIconData(0xe9a8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-calendar_today-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/calendar_today/v1/24px.svg)
     static const IconData calendarToday = _OMIconData(0xe9a9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-calendar_view_day-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/calendar_view_day/v1/24px.svg)
     static const IconData calendarViewDay = _OMIconData(0xe9aa);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call_end-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call_end/v1/24px.svg)
     static const IconData callEnd = _OMIconData(0xe9ab);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call_made-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call_made/v1/24px.svg)
     static const IconData callMade = _OMIconData(0xe9ac);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call_merge-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call_merge/v1/24px.svg)
     static const IconData callMerge = _OMIconData(0xe9ad);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call_missed_outgoing-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call_missed_outgoing/v1/24px.svg)
     static const IconData callMissedOutgoing = _OMIconData(0xe9ae);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call_missed-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call_missed/v1/24px.svg)
     static const IconData callMissed = _OMIconData(0xe9af);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call_received-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call_received/v1/24px.svg)
     static const IconData callReceived = _OMIconData(0xe9b0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call_split-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call_split/v1/24px.svg)
     static const IconData callSplit = _OMIconData(0xe9b1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call_to_action-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call_to_action/v1/24px.svg)
     static const IconData callToAction = _OMIconData(0xe9b2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-call-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/call/v1/24px.svg)
     static const IconData call = _OMIconData(0xe9b3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-camera_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/camera_alt/v1/24px.svg)
     static const IconData cameraAlt = _OMIconData(0xe9b4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-camera_enhance-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/camera_enhance/v1/24px.svg)
     static const IconData cameraEnhance = _OMIconData(0xe9b5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-camera_front-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/camera_front/v1/24px.svg)
     static const IconData cameraFront = _OMIconData(0xe9b6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-camera_rear-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/camera_rear/v1/24px.svg)
     static const IconData cameraRear = _OMIconData(0xe9b7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-camera_roll-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/camera_roll/v1/24px.svg)
     static const IconData cameraRoll = _OMIconData(0xe9b8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-camera-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/camera/v1/24px.svg)
     static const IconData camera = _OMIconData(0xe9b9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cancel_presentation-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cancel_presentation/v1/24px.svg)
     static const IconData cancelPresentation = _OMIconData(0xe9ba);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cancel-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cancel/v1/24px.svg)
     static const IconData cancel = _OMIconData(0xe9bb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-card_giftcard-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/card_giftcard/v1/24px.svg)
     static const IconData cardGiftcard = _OMIconData(0xe9bc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-card_membership-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/card_membership/v1/24px.svg)
     static const IconData cardMembership = _OMIconData(0xe9bd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-card_travel-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/card_travel/v1/24px.svg)
     static const IconData cardTravel = _OMIconData(0xe9be);
-    /// ![](https://material.io/tools/icons/static/icons/outline-casino-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/casino/v1/24px.svg)
     static const IconData casino = _OMIconData(0xe9bf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cast_connected-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cast_connected/v1/24px.svg)
     static const IconData castConnected = _OMIconData(0xe9c0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cast_for_education-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cast_for_education/v1/24px.svg)
     static const IconData castForEducation = _OMIconData(0xe9c1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cast-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cast/v1/24px.svg)
     static const IconData cast = _OMIconData(0xe9c2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-category-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/category/v1/24px.svg)
     static const IconData category = _OMIconData(0xe9c3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-center_focus_strong-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/center_focus_strong/v1/24px.svg)
     static const IconData centerFocusStrong = _OMIconData(0xe9c6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-center_focus_weak-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/center_focus_weak/v1/24px.svg)
     static const IconData centerFocusWeak = _OMIconData(0xe9c7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-change_history-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/change_history/v1/24px.svg)
     static const IconData changeHistory = _OMIconData(0xe9c8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-chat_bubble_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/chat_bubble_outline/v1/24px.svg)
     static const IconData chatBubbleOutline = _OMIconData(0xe9c9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-chat_bubble-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/chat_bubble/v1/24px.svg)
     static const IconData chatBubble = _OMIconData(0xe9ca);
-    /// ![](https://material.io/tools/icons/static/icons/outline-chat-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/chat/v1/24px.svg)
     static const IconData chat = _OMIconData(0xe9cb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-check_box_outline_blank-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/check_box_outline_blank/v1/24px.svg)
     static const IconData checkBoxOutlineBlank = _OMIconData(0xe9cc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-check_box-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/check_box/v1/24px.svg)
     static const IconData checkBox = _OMIconData(0xe9cd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-check_circle_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/check_circle_outline/v1/24px.svg)
     static const IconData checkCircleOutline = _OMIconData(0xe9ce);
-    /// ![](https://material.io/tools/icons/static/icons/outline-check_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/check_circle/v1/24px.svg)
     static const IconData checkCircle = _OMIconData(0xe9cf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-check-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/check/v1/24px.svg)
     static const IconData check = _OMIconData(0xe9d0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-chevron_left-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/chevron_left/v1/24px.svg)
     static const IconData chevronLeft = _OMIconData(0xe9d1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-chevron_right-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/chevron_right/v1/24px.svg)
     static const IconData chevronRight = _OMIconData(0xe9d2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-child_care-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/child_care/v1/24px.svg)
     static const IconData childCare = _OMIconData(0xe9d3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-child_friendly-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/child_friendly/v1/24px.svg)
     static const IconData childFriendly = _OMIconData(0xe9d4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-chrome_reader_mode-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/chrome_reader_mode/v1/24px.svg)
     static const IconData chromeReaderMode = _OMIconData(0xe9d5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-class-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/class/v1/24px.svg)
     static const IconData classIcon = _OMIconData(0xe9d6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-clear_all-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/clear_all/v1/24px.svg)
     static const IconData clearAll = _OMIconData(0xe9d7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-clear-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/clear/v1/24px.svg)
     static const IconData clear = _OMIconData(0xe9d8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-close-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/close/v1/24px.svg)
     static const IconData close = _OMIconData(0xe9d9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-closed_caption-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/closed_caption/v1/24px.svg)
     static const IconData closedCaption = _OMIconData(0xe9da);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cloud_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cloud_circle/v1/24px.svg)
     static const IconData cloudCircle = _OMIconData(0xe9db);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cloud_done-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cloud_done/v1/24px.svg)
     static const IconData cloudDone = _OMIconData(0xe9dc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cloud_download-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cloud_download/v1/24px.svg)
     static const IconData cloudDownload = _OMIconData(0xe9dd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cloud_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cloud_off/v1/24px.svg)
     static const IconData cloudOff = _OMIconData(0xe9de);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cloud_queue-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cloud_queue/v1/24px.svg)
     static const IconData cloudQueue = _OMIconData(0xe9df);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cloud_upload-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cloud_upload/v1/24px.svg)
     static const IconData cloudUpload = _OMIconData(0xe9e0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-cloud-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/cloud/v1/24px.svg)
     static const IconData cloud = _OMIconData(0xe9e1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-code-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/code/v1/24px.svg)
     static const IconData code = _OMIconData(0xe9e2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-collections_bookmark-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/collections_bookmark/v1/24px.svg)
     static const IconData collectionsBookmark = _OMIconData(0xe9e3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-collections-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/collections/v1/24px.svg)
     static const IconData collections = _OMIconData(0xe9e4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-color_lens-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/color_lens/v1/24px.svg)
     static const IconData colorLens = _OMIconData(0xe9e5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-colorize-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/colorize/v1/24px.svg)
     static const IconData colorize = _OMIconData(0xe9e6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-comment-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/comment/v1/24px.svg)
     static const IconData comment = _OMIconData(0xe9e7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-commute-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/commute/v1/24px.svg)
     static const IconData commute = _OMIconData(0xe9e8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-compare_arrows-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/compare_arrows/v1/24px.svg)
     static const IconData compareArrows = _OMIconData(0xe9e9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-compare-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/compare/v1/24px.svg)
     static const IconData compare = _OMIconData(0xe9ea);
-    /// ![](https://material.io/tools/icons/static/icons/outline-compass_calibration-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/compass_calibration/v1/24px.svg)
     static const IconData compassCalibration = _OMIconData(0xe9eb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-computer-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/computer/v1/24px.svg)
     static const IconData computer = _OMIconData(0xe9ec);
-    /// ![](https://material.io/tools/icons/static/icons/outline-confirmation_number-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/confirmation_number/v1/24px.svg)
     static const IconData confirmationNumber = _OMIconData(0xe9ed);
-    /// ![](https://material.io/tools/icons/static/icons/outline-contact_mail-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/contact_mail/v1/24px.svg)
     static const IconData contactMail = _OMIconData(0xe9ee);
-    /// ![](https://material.io/tools/icons/static/icons/outline-contact_phone-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/contact_phone/v1/24px.svg)
     static const IconData contactPhone = _OMIconData(0xe9ef);
-    /// ![](https://material.io/tools/icons/static/icons/outline-contact_support-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/contact_support/v1/24px.svg)
     static const IconData contactSupport = _OMIconData(0xe9f0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-contacts-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/contacts/v1/24px.svg)
     static const IconData contacts = _OMIconData(0xe9f1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-control_camera-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/control_camera/v1/24px.svg)
     static const IconData controlCamera = _OMIconData(0xe9f2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-control_point_duplicate-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/control_point_duplicate/v1/24px.svg)
     static const IconData controlPointDuplicate = _OMIconData(0xe9f3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-control_point-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/control_point/v1/24px.svg)
     static const IconData controlPoint = _OMIconData(0xe9f4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-copyright-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/copyright/v1/24px.svg)
     static const IconData copyright = _OMIconData(0xe9f5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-create_new_folder-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/create_new_folder/v1/24px.svg)
     static const IconData createNewFolder = _OMIconData(0xe9f6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-create-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/create/v1/24px.svg)
     static const IconData create = _OMIconData(0xe9f7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-credit_card-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/credit_card/v1/24px.svg)
     static const IconData creditCard = _OMIconData(0xe9f8);
     /// ![](https://material.io/tools/icons/static/icons/outline-crop_3_2-24px.svg)
     static const IconData crop32 = _OMIconData(0xe9f9);
@@ -453,161 +453,161 @@ class OMIcons {
     static const IconData crop75 = _OMIconData(0xe9fb);
     /// ![](https://material.io/tools/icons/static/icons/outline-crop_16_9-24px.svg)
     static const IconData crop169 = _OMIconData(0xe9fc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-crop_din-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/crop_din/v1/24px.svg)
     static const IconData cropDin = _OMIconData(0xe9fd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-crop_free-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/crop_free/v1/24px.svg)
     static const IconData cropFree = _OMIconData(0xe9fe);
-    /// ![](https://material.io/tools/icons/static/icons/outline-crop_landscape-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/crop_landscape/v1/24px.svg)
     static const IconData cropLandscape = _OMIconData(0xe9ff);
-    /// ![](https://material.io/tools/icons/static/icons/outline-crop_original-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/crop_original/v1/24px.svg)
     static const IconData cropOriginal = _OMIconData(0xea00);
-    /// ![](https://material.io/tools/icons/static/icons/outline-crop_portrait-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/crop_portrait/v1/24px.svg)
     static const IconData cropPortrait = _OMIconData(0xea01);
-    /// ![](https://material.io/tools/icons/static/icons/outline-crop_rotate-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/crop_rotate/v1/24px.svg)
     static const IconData cropRotate = _OMIconData(0xea02);
-    /// ![](https://material.io/tools/icons/static/icons/outline-crop_square-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/crop_square/v1/24px.svg)
     static const IconData cropSquare = _OMIconData(0xea03);
-    /// ![](https://material.io/tools/icons/static/icons/outline-crop-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/crop/v1/24px.svg)
     static const IconData crop = _OMIconData(0xea04);
-    /// ![](https://material.io/tools/icons/static/icons/outline-dashboard-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/dashboard/v1/24px.svg)
     static const IconData dashboard = _OMIconData(0xea05);
-    /// ![](https://material.io/tools/icons/static/icons/outline-data_usage-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/data_usage/v1/24px.svg)
     static const IconData dataUsage = _OMIconData(0xea06);
-    /// ![](https://material.io/tools/icons/static/icons/outline-date_range-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/date_range/v1/24px.svg)
     static const IconData dateRange = _OMIconData(0xea07);
-    /// ![](https://material.io/tools/icons/static/icons/outline-dehaze-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/dehaze/v1/24px.svg)
     static const IconData dehaze = _OMIconData(0xea08);
-    /// ![](https://material.io/tools/icons/static/icons/outline-delete_forever-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/delete_forever/v1/24px.svg)
     static const IconData deleteForever = _OMIconData(0xea09);
-    /// ![](https://material.io/tools/icons/static/icons/outline-delete_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/delete_outline/v1/24px.svg)
     static const IconData deleteOutline = _OMIconData(0xea0a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-delete_sweep-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/delete_sweep/v1/24px.svg)
     static const IconData deleteSweep = _OMIconData(0xea0b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-delete-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/delete/v1/24px.svg)
     static const IconData delete = _OMIconData(0xea0c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-departure_board-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/departure_board/v1/24px.svg)
     static const IconData departureBoard = _OMIconData(0xea0d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-description-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/description/v1/24px.svg)
     static const IconData description = _OMIconData(0xea0e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-desktop_access_disabled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/desktop_access_disabled/v1/24px.svg)
     static const IconData desktopAccessDisabled = _OMIconData(0xea0f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-desktop_mac-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/desktop_mac/v1/24px.svg)
     static const IconData desktopMac = _OMIconData(0xea10);
-    /// ![](https://material.io/tools/icons/static/icons/outline-desktop_windows-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/desktop_windows/v1/24px.svg)
     static const IconData desktopWindows = _OMIconData(0xea11);
-    /// ![](https://material.io/tools/icons/static/icons/outline-details-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/details/v1/24px.svg)
     static const IconData details = _OMIconData(0xea12);
-    /// ![](https://material.io/tools/icons/static/icons/outline-developer_board-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/developer_board/v1/24px.svg)
     static const IconData developerBoard = _OMIconData(0xea13);
-    /// ![](https://material.io/tools/icons/static/icons/outline-developer_mode-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/developer_mode/v1/24px.svg)
     static const IconData developerMode = _OMIconData(0xea14);
-    /// ![](https://material.io/tools/icons/static/icons/outline-device_hub-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/device_hub/v1/24px.svg)
     static const IconData deviceHub = _OMIconData(0xea15);
-    /// ![](https://material.io/tools/icons/static/icons/outline-device_unknown-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/device_unknown/v1/24px.svg)
     static const IconData deviceUnknown = _OMIconData(0xea16);
-    /// ![](https://material.io/tools/icons/static/icons/outline-devices_other-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/devices_other/v1/24px.svg)
     static const IconData devicesOther = _OMIconData(0xea17);
-    /// ![](https://material.io/tools/icons/static/icons/outline-devices-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/devices/v1/24px.svg)
     static const IconData devices = _OMIconData(0xea18);
-    /// ![](https://material.io/tools/icons/static/icons/outline-dialer_sip-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/dialer_sip/v1/24px.svg)
     static const IconData dialerSip = _OMIconData(0xea19);
-    /// ![](https://material.io/tools/icons/static/icons/outline-dialpad-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/dialpad/v1/24px.svg)
     static const IconData dialpad = _OMIconData(0xea1a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_bike-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_bike/v1/24px.svg)
     static const IconData directionsBike = _OMIconData(0xea1b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_boat-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_boat/v1/24px.svg)
     static const IconData directionsBoat = _OMIconData(0xea1c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_bus-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_bus/v1/24px.svg)
     static const IconData directionsBus = _OMIconData(0xea1d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_car-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_car/v1/24px.svg)
     static const IconData directionsCar = _OMIconData(0xea1e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_railway-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_railway/v1/24px.svg)
     static const IconData directionsRailway = _OMIconData(0xea1f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_run-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_run/v1/24px.svg)
     static const IconData directionsRun = _OMIconData(0xea20);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_subway-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_subway/v1/24px.svg)
     static const IconData directionsSubway = _OMIconData(0xea21);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_transit-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_transit/v1/24px.svg)
     static const IconData directionsTransit = _OMIconData(0xea22);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions_walk-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions_walk/v1/24px.svg)
     static const IconData directionsWalk = _OMIconData(0xea23);
-    /// ![](https://material.io/tools/icons/static/icons/outline-directions-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/directions/v1/24px.svg)
     static const IconData directions = _OMIconData(0xea24);
-    /// ![](https://material.io/tools/icons/static/icons/outline-disc_full-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/disc_full/v1/24px.svg)
     static const IconData discFull = _OMIconData(0xea25);
-    /// ![](https://material.io/tools/icons/static/icons/outline-dns-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/dns/v1/24px.svg)
     static const IconData dns = _OMIconData(0xea26);
-    /// ![](https://material.io/tools/icons/static/icons/outline-dock-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/dock/v1/24px.svg)
     static const IconData dock = _OMIconData(0xea27);
-    /// ![](https://material.io/tools/icons/static/icons/outline-domain_disabled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/domain_disabled/v1/24px.svg)
     static const IconData domainDisabled = _OMIconData(0xea28);
-    /// ![](https://material.io/tools/icons/static/icons/outline-domain-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/domain/v1/24px.svg)
     static const IconData domain = _OMIconData(0xea29);
-    /// ![](https://material.io/tools/icons/static/icons/outline-done_all-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/done_all/v1/24px.svg)
     static const IconData doneAll = _OMIconData(0xea2a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-done_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/done_outline/v1/24px.svg)
     static const IconData doneOutline = _OMIconData(0xea2b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-done-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/done/v1/24px.svg)
     static const IconData done = _OMIconData(0xea2c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-donut_large-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/donut_large/v1/24px.svg)
     static const IconData donutLarge = _OMIconData(0xea2d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-donut_small-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/donut_small/v1/24px.svg)
     static const IconData donutSmall = _OMIconData(0xea2e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-drafts-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/drafts/v1/24px.svg)
     static const IconData drafts = _OMIconData(0xea2f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-drag_handle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/drag_handle/v1/24px.svg)
     static const IconData dragHandle = _OMIconData(0xea30);
-    /// ![](https://material.io/tools/icons/static/icons/outline-drag_indicator-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/drag_indicator/v1/24px.svg)
     static const IconData dragIndicator = _OMIconData(0xea31);
-    /// ![](https://material.io/tools/icons/static/icons/outline-drive_eta-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/drive_eta/v1/24px.svg)
     static const IconData driveEta = _OMIconData(0xea32);
-    /// ![](https://material.io/tools/icons/static/icons/outline-duo-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/duo/v1/24px.svg)
     static const IconData duo = _OMIconData(0xea33);
-    /// ![](https://material.io/tools/icons/static/icons/outline-dvr-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/dvr/v1/24px.svg)
     static const IconData dvr = _OMIconData(0xea34);
-    /// ![](https://material.io/tools/icons/static/icons/outline-edit_attributes-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/edit_attributes/v1/24px.svg)
     static const IconData editAttributes = _OMIconData(0xea35);
-    /// ![](https://material.io/tools/icons/static/icons/outline-edit_location-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/edit_location/v1/24px.svg)
     static const IconData editLocation = _OMIconData(0xea36);
-    /// ![](https://material.io/tools/icons/static/icons/outline-edit-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/edit/v1/24px.svg)
     static const IconData edit = _OMIconData(0xea37);
-    /// ![](https://material.io/tools/icons/static/icons/outline-eject-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/eject/v1/24px.svg)
     static const IconData eject = _OMIconData(0xea38);
-    /// ![](https://material.io/tools/icons/static/icons/outline-email-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/email/v1/24px.svg)
     static const IconData email = _OMIconData(0xea39);
-    /// ![](https://material.io/tools/icons/static/icons/outline-enhanced_encryption-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/enhanced_encryption/v1/24px.svg)
     static const IconData enhancedEncryption = _OMIconData(0xea3a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-equalizer-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/equalizer/v1/24px.svg)
     static const IconData equalizer = _OMIconData(0xea3b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-error_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/error_outline/v1/24px.svg)
     static const IconData errorOutline = _OMIconData(0xea3c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-error-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/error/v1/24px.svg)
     static const IconData error = _OMIconData(0xea3d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-euro_symbol-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/euro_symbol/v1/24px.svg)
     static const IconData euroSymbol = _OMIconData(0xea3e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-ev_station-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/ev_station/v1/24px.svg)
     static const IconData evStation = _OMIconData(0xea3f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-event_available-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/event_available/v1/24px.svg)
     static const IconData eventAvailable = _OMIconData(0xea40);
-    /// ![](https://material.io/tools/icons/static/icons/outline-event_busy-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/event_busy/v1/24px.svg)
     static const IconData eventBusy = _OMIconData(0xea41);
-    /// ![](https://material.io/tools/icons/static/icons/outline-event_note-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/event_note/v1/24px.svg)
     static const IconData eventNote = _OMIconData(0xea42);
-    /// ![](https://material.io/tools/icons/static/icons/outline-event_seat-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/event_seat/v1/24px.svg)
     static const IconData eventSeat = _OMIconData(0xea43);
-    /// ![](https://material.io/tools/icons/static/icons/outline-event-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/event/v1/24px.svg)
     static const IconData event = _OMIconData(0xea44);
-    /// ![](https://material.io/tools/icons/static/icons/outline-exit_to_app-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/exit_to_app/v1/24px.svg)
     static const IconData exitToApp = _OMIconData(0xea45);
-    /// ![](https://material.io/tools/icons/static/icons/outline-expand_less-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/expand_less/v1/24px.svg)
     static const IconData expandLess = _OMIconData(0xea46);
-    /// ![](https://material.io/tools/icons/static/icons/outline-expand_more-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/expand_more/v1/24px.svg)
     static const IconData expandMore = _OMIconData(0xea47);
-    /// ![](https://material.io/tools/icons/static/icons/outline-explicit-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/explicit/v1/24px.svg)
     static const IconData explicit = _OMIconData(0xea48);
-    /// ![](https://material.io/tools/icons/static/icons/outline-explore_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/explore_off/v1/24px.svg)
     static const IconData exploreOff = _OMIconData(0xea49);
-    /// ![](https://material.io/tools/icons/static/icons/outline-explore-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/explore/v1/24px.svg)
     static const IconData explore = _OMIconData(0xea4a);
     /// ![](https://material.io/tools/icons/static/icons/outline-exposure_neg_1-24px.svg)
     static const IconData exposureNeg1 = _OMIconData(0xea4b);
@@ -617,41 +617,41 @@ class OMIcons {
     static const IconData exposurePlus1 = _OMIconData(0xea4d);
     /// ![](https://material.io/tools/icons/static/icons/outline-exposure_plus_2-24px.svg)
     static const IconData exposurePlus2 = _OMIconData(0xea4e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-exposure_zero-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/exposure_zero/v1/24px.svg)
     static const IconData exposureZero = _OMIconData(0xea4f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-exposure-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/exposure/v1/24px.svg)
     static const IconData exposure = _OMIconData(0xea50);
-    /// ![](https://material.io/tools/icons/static/icons/outline-extension-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/extension/v1/24px.svg)
     static const IconData extension = _OMIconData(0xea51);
-    /// ![](https://material.io/tools/icons/static/icons/outline-face-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/face/v1/24px.svg)
     static const IconData face = _OMIconData(0xea52);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fast_forward-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fast_forward/v1/24px.svg)
     static const IconData fastForward = _OMIconData(0xea53);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fast_rewind-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fast_rewind/v1/24px.svg)
     static const IconData fastRewind = _OMIconData(0xea54);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fastfood-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fastfood/v1/24px.svg)
     static const IconData fastfood = _OMIconData(0xea55);
-    /// ![](https://material.io/tools/icons/static/icons/outline-favorite_border-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/favorite_border/v1/24px.svg)
     static const IconData favoriteBorder = _OMIconData(0xea56);
-    /// ![](https://material.io/tools/icons/static/icons/outline-favorite-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/favorite/v1/24px.svg)
     static const IconData favorite = _OMIconData(0xea57);
-    /// ![](https://material.io/tools/icons/static/icons/outline-featured_play_list-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/featured_play_list/v1/24px.svg)
     static const IconData featuredPlayList = _OMIconData(0xea58);
-    /// ![](https://material.io/tools/icons/static/icons/outline-featured_video-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/featured_video/v1/24px.svg)
     static const IconData featuredVideo = _OMIconData(0xea59);
-    /// ![](https://material.io/tools/icons/static/icons/outline-feedback-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/feedback/v1/24px.svg)
     static const IconData feedback = _OMIconData(0xea5a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fiber_dvr-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fiber_dvr/v1/24px.svg)
     static const IconData fiberDvr = _OMIconData(0xea5b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fiber_manual_record-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fiber_manual_record/v1/24px.svg)
     static const IconData fiberManualRecord = _OMIconData(0xea5c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fiber_new-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fiber_new/v1/24px.svg)
     static const IconData fiberNew = _OMIconData(0xea5d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fiber_pin-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fiber_pin/v1/24px.svg)
     static const IconData fiberPin = _OMIconData(0xea5e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fiber_smart_record-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fiber_smart_record/v1/24px.svg)
     static const IconData fiberSmartRecord = _OMIconData(0xea5f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-file_copy-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/file_copy/v1/24px.svg)
     static const IconData fileCopy = _OMIconData(0xea60);
     /// ![](https://material.io/tools/icons/static/icons/outline-filter_1-24px.svg)
     static const IconData filter1 = _OMIconData(0xea61);
@@ -673,117 +673,117 @@ class OMIcons {
     static const IconData filter9Plus = _OMIconData(0xea69);
     /// ![](https://material.io/tools/icons/static/icons/outline-filter_9-24px.svg)
     static const IconData filter9 = _OMIconData(0xea6a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_b_and_w-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_b_and_w/v1/24px.svg)
     static const IconData filterBAndW = _OMIconData(0xea6b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_center_focus-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_center_focus/v1/24px.svg)
     static const IconData filterCenterFocus = _OMIconData(0xea6c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_drama-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_drama/v1/24px.svg)
     static const IconData filterDrama = _OMIconData(0xea6d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_frames-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_frames/v1/24px.svg)
     static const IconData filterFrames = _OMIconData(0xea6e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_hdr-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_hdr/v1/24px.svg)
     static const IconData filterHdr = _OMIconData(0xea6f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_list-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_list/v1/24px.svg)
     static const IconData filterList = _OMIconData(0xea70);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_none-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_none/v1/24px.svg)
     static const IconData filterNone = _OMIconData(0xea71);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_tilt_shift-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_tilt_shift/v1/24px.svg)
     static const IconData filterTiltShift = _OMIconData(0xea72);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter_vintage-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter_vintage/v1/24px.svg)
     static const IconData filterVintage = _OMIconData(0xea73);
-    /// ![](https://material.io/tools/icons/static/icons/outline-filter-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/filter/v1/24px.svg)
     static const IconData filter = _OMIconData(0xea74);
-    /// ![](https://material.io/tools/icons/static/icons/outline-find_in_page-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/find_in_page/v1/24px.svg)
     static const IconData findInPage = _OMIconData(0xea75);
-    /// ![](https://material.io/tools/icons/static/icons/outline-find_replace-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/find_replace/v1/24px.svg)
     static const IconData findReplace = _OMIconData(0xea76);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fingerprint-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fingerprint/v1/24px.svg)
     static const IconData fingerprint = _OMIconData(0xea77);
-    /// ![](https://material.io/tools/icons/static/icons/outline-first_page-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/first_page/v1/24px.svg)
     static const IconData firstPage = _OMIconData(0xea78);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fitness_center-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fitness_center/v1/24px.svg)
     static const IconData fitnessCenter = _OMIconData(0xea79);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flag-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flag/v1/24px.svg)
     static const IconData flag = _OMIconData(0xea7a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flare-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flare/v1/24px.svg)
     static const IconData flare = _OMIconData(0xea7b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flash_auto-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flash_auto/v1/24px.svg)
     static const IconData flashAuto = _OMIconData(0xea7c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flash_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flash_off/v1/24px.svg)
     static const IconData flashOff = _OMIconData(0xea7d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flash_on-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flash_on/v1/24px.svg)
     static const IconData flashOn = _OMIconData(0xea7e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flight_land-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flight_land/v1/24px.svg)
     static const IconData flightLand = _OMIconData(0xea7f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flight_takeoff-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flight_takeoff/v1/24px.svg)
     static const IconData flightTakeoff = _OMIconData(0xea80);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flight-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flight/v1/24px.svg)
     static const IconData flight = _OMIconData(0xea81);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flip_to_back-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flip_to_back/v1/24px.svg)
     static const IconData flipToBack = _OMIconData(0xea82);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flip_to_front-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flip_to_front/v1/24px.svg)
     static const IconData flipToFront = _OMIconData(0xea83);
-    /// ![](https://material.io/tools/icons/static/icons/outline-flip-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flip/v1/24px.svg)
     static const IconData flip = _OMIconData(0xea84);
-    /// ![](https://material.io/tools/icons/static/icons/outline-folder_open-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/folder_open/v1/24px.svg)
     static const IconData folderOpen = _OMIconData(0xea85);
-    /// ![](https://material.io/tools/icons/static/icons/outline-folder_shared-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/folder_shared/v1/24px.svg)
     static const IconData folderShared = _OMIconData(0xea86);
-    /// ![](https://material.io/tools/icons/static/icons/outline-folder_special-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/folder_special/v1/24px.svg)
     static const IconData folderSpecial = _OMIconData(0xea87);
-    /// ![](https://material.io/tools/icons/static/icons/outline-folder-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/folder/v1/24px.svg)
     static const IconData folder = _OMIconData(0xea88);
-    /// ![](https://material.io/tools/icons/static/icons/outline-font_download-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/font_download/v1/24px.svg)
     static const IconData fontDownload = _OMIconData(0xea89);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_align_center-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_align_center/v1/24px.svg)
     static const IconData formatAlignCenter = _OMIconData(0xea8a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_align_justify-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_align_justify/v1/24px.svg)
     static const IconData formatAlignJustify = _OMIconData(0xea8b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_align_left-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_align_left/v1/24px.svg)
     static const IconData formatAlignLeft = _OMIconData(0xea8c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_align_right-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_align_right/v1/24px.svg)
     static const IconData formatAlignRight = _OMIconData(0xea8d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_bold-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_bold/v1/24px.svg)
     static const IconData formatBold = _OMIconData(0xea8e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_clear-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_clear/v1/24px.svg)
     static const IconData formatClear = _OMIconData(0xea8f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_color_fill-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_color_fill/v1/24px.svg)
     static const IconData formatColorFill = _OMIconData(0xea90);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_color_reset-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_color_reset/v1/24px.svg)
     static const IconData formatColorReset = _OMIconData(0xea92);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_color_text-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_color_text/v1/24px.svg)
     static const IconData formatColorText = _OMIconData(0xea93);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_indent_decrease-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_indent_decrease/v1/24px.svg)
     static const IconData formatIndentDecrease = _OMIconData(0xea95);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_indent_increase-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_indent_increase/v1/24px.svg)
     static const IconData formatIndentIncrease = _OMIconData(0xea96);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_italic-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_italic/v1/24px.svg)
     static const IconData formatItalic = _OMIconData(0xea97);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_line_spacing-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_line_spacing/v1/24px.svg)
     static const IconData formatLineSpacing = _OMIconData(0xea98);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_list_bulleted-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_list_bulleted/v1/24px.svg)
     static const IconData formatListBulleted = _OMIconData(0xea99);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_list_numbered_rtl-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_list_numbered_rtl/v1/24px.svg)
     static const IconData formatListNumberedRtl = _OMIconData(0xea9a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_list_numbered-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_list_numbered/v1/24px.svg)
     static const IconData formatListNumbered = _OMIconData(0xea9b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_paint-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_paint/v1/24px.svg)
     static const IconData formatPaint = _OMIconData(0xea9c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_quote-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_quote/v1/24px.svg)
     static const IconData formatQuote = _OMIconData(0xea9d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_shapes-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_shapes/v1/24px.svg)
     static const IconData formatShapes = _OMIconData(0xea9e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_size-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_size/v1/24px.svg)
     static const IconData formatSize = _OMIconData(0xea9f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_strikethrough-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_strikethrough/v1/24px.svg)
     static const IconData formatStrikethrough = _OMIconData(0xeaa0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_textdirection_l_to_r-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_textdirection_l_to_r/v1/24px.svg)
     static const IconData formatTextdirectionLToR = _OMIconData(0xeaa1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_textdirection_r_to_l-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_textdirection_r_to_l/v1/24px.svg)
     static const IconData formatTextdirectionRToL = _OMIconData(0xeaa2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-format_underlined-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/format_underlined/v1/24px.svg)
     static const IconData formatUnderlined = _OMIconData(0xeaa3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-forum-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/forum/v1/24px.svg)
     static const IconData forum = _OMIconData(0xeaa4);
     /// ![](https://material.io/tools/icons/static/icons/outline-forward_5-24px.svg)
     static const IconData forward5 = _OMIconData(0xeaa5);
@@ -791,301 +791,301 @@ class OMIcons {
     static const IconData forward10 = _OMIconData(0xeaa6);
     /// ![](https://material.io/tools/icons/static/icons/outline-forward_30-24px.svg)
     static const IconData forward30 = _OMIconData(0xeaa7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-forward-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/forward/v1/24px.svg)
     static const IconData forward = _OMIconData(0xeaa8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-free_breakfast-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/free_breakfast/v1/24px.svg)
     static const IconData freeBreakfast = _OMIconData(0xeaa9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fullscreen_exit-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fullscreen_exit/v1/24px.svg)
     static const IconData fullscreenExit = _OMIconData(0xeaaa);
-    /// ![](https://material.io/tools/icons/static/icons/outline-fullscreen-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/fullscreen/v1/24px.svg)
     static const IconData fullscreen = _OMIconData(0xeaab);
-    /// ![](https://material.io/tools/icons/static/icons/outline-functions-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/functions/v1/24px.svg)
     static const IconData functions = _OMIconData(0xeaac);
-    /// ![](https://material.io/tools/icons/static/icons/outline-g_translate-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/g_translate/v1/24px.svg)
     static const IconData gTranslate = _OMIconData(0xeaad);
-    /// ![](https://material.io/tools/icons/static/icons/outline-gamepad-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/gamepad/v1/24px.svg)
     static const IconData gamepad = _OMIconData(0xeaae);
-    /// ![](https://material.io/tools/icons/static/icons/outline-games-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/games/v1/24px.svg)
     static const IconData games = _OMIconData(0xeaaf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-gavel-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/gavel/v1/24px.svg)
     static const IconData gavel = _OMIconData(0xeab0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-gesture-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/gesture/v1/24px.svg)
     static const IconData gesture = _OMIconData(0xeab1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-get_app-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/get_app/v1/24px.svg)
     static const IconData getApp = _OMIconData(0xeab2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-gif-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/gif/v1/24px.svg)
     static const IconData gif = _OMIconData(0xeab3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-golf_course-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/golf_course/v1/24px.svg)
     static const IconData golfCourse = _OMIconData(0xeab4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-gps_fixed-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/gps_fixed/v1/24px.svg)
     static const IconData gpsFixed = _OMIconData(0xeab5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-gps_not_fixed-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/gps_not_fixed/v1/24px.svg)
     static const IconData gpsNotFixed = _OMIconData(0xeab6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-gps_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/gps_off/v1/24px.svg)
     static const IconData gpsOff = _OMIconData(0xeab7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-grade-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/grade/v1/24px.svg)
     static const IconData grade = _OMIconData(0xeab8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-gradient-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/gradient/v1/24px.svg)
     static const IconData gradient = _OMIconData(0xeab9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-grain-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/grain/v1/24px.svg)
     static const IconData grain = _OMIconData(0xeaba);
-    /// ![](https://material.io/tools/icons/static/icons/outline-graphic_eq-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/graphic_eq/v1/24px.svg)
     static const IconData graphicEq = _OMIconData(0xeabb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-grid_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/grid_off/v1/24px.svg)
     static const IconData gridOff = _OMIconData(0xeabc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-grid_on-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/grid_on/v1/24px.svg)
     static const IconData gridOn = _OMIconData(0xeabd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-group_add-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/group_add/v1/24px.svg)
     static const IconData groupAdd = _OMIconData(0xeabe);
-    /// ![](https://material.io/tools/icons/static/icons/outline-group_work-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/group_work/v1/24px.svg)
     static const IconData groupWork = _OMIconData(0xeabf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-group-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/group/v1/24px.svg)
     static const IconData group = _OMIconData(0xeac0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hd-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hd/v1/24px.svg)
     static const IconData hd = _OMIconData(0xeac1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hdr_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hdr_off/v1/24px.svg)
     static const IconData hdrOff = _OMIconData(0xeac2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hdr_on-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hdr_on/v1/24px.svg)
     static const IconData hdrOn = _OMIconData(0xeac3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hdr_strong-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hdr_strong/v1/24px.svg)
     static const IconData hdrStrong = _OMIconData(0xeac4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hdr_weak-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hdr_weak/v1/24px.svg)
     static const IconData hdrWeak = _OMIconData(0xeac5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-headset_mic-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/headset_mic/v1/24px.svg)
     static const IconData headsetMic = _OMIconData(0xeac6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-headset-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/headset/v1/24px.svg)
     static const IconData headset = _OMIconData(0xeac7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-healing-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/healing/v1/24px.svg)
     static const IconData healing = _OMIconData(0xeac8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hearing-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hearing/v1/24px.svg)
     static const IconData hearing = _OMIconData(0xeac9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-help_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/help_outline/v1/24px.svg)
     static const IconData helpOutline = _OMIconData(0xeaca);
-    /// ![](https://material.io/tools/icons/static/icons/outline-help-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/help/v1/24px.svg)
     static const IconData help = _OMIconData(0xeacb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-high_quality-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/high_quality/v1/24px.svg)
     static const IconData highQuality = _OMIconData(0xeacc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-highlight_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/highlight_off/v1/24px.svg)
     static const IconData highlightOff = _OMIconData(0xeacd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-highlight-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/highlight/v1/24px.svg)
     static const IconData highlight = _OMIconData(0xeace);
-    /// ![](https://material.io/tools/icons/static/icons/outline-history-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/history/v1/24px.svg)
     static const IconData history = _OMIconData(0xeacf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-home-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/home/v1/24px.svg)
     static const IconData home = _OMIconData(0xead0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-horizontal_split-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/horizontal_split/v1/24px.svg)
     static const IconData horizontalSplit = _OMIconData(0xead1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hot_tub-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hot_tub/v1/24px.svg)
     static const IconData hotTub = _OMIconData(0xead2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hotel-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hotel/v1/24px.svg)
     static const IconData hotel = _OMIconData(0xead3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hourglass_empty-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hourglass_empty/v1/24px.svg)
     static const IconData hourglassEmpty = _OMIconData(0xead4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-hourglass_full-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/hourglass_full/v1/24px.svg)
     static const IconData hourglassFull = _OMIconData(0xead5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-how_to_reg-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/how_to_reg/v1/24px.svg)
     static const IconData howToReg = _OMIconData(0xead6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-how_to_vote-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/how_to_vote/v1/24px.svg)
     static const IconData howToVote = _OMIconData(0xead7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-http-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/http/v1/24px.svg)
     static const IconData http = _OMIconData(0xead8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-https-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/https/v1/24px.svg)
     static const IconData https = _OMIconData(0xead9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-image_aspect_ratio-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/image_aspect_ratio/v1/24px.svg)
     static const IconData imageAspectRatio = _OMIconData(0xeada);
-    /// ![](https://material.io/tools/icons/static/icons/outline-image_search-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/image_search/v1/24px.svg)
     static const IconData imageSearch = _OMIconData(0xeadb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-image-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/image/v1/24px.svg)
     static const IconData image = _OMIconData(0xeadc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-import_contacts-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/import_contacts/v1/24px.svg)
     static const IconData importContacts = _OMIconData(0xeadd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-import_export-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/import_export/v1/24px.svg)
     static const IconData importExport = _OMIconData(0xeade);
-    /// ![](https://material.io/tools/icons/static/icons/outline-important_devices-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/important_devices/v1/24px.svg)
     static const IconData importantDevices = _OMIconData(0xeadf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-inbox-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/inbox/v1/24px.svg)
     static const IconData inbox = _OMIconData(0xeae0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-indeterminate_check_box-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/indeterminate_check_box/v1/24px.svg)
     static const IconData indeterminateCheckBox = _OMIconData(0xeae1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-info-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/info/v1/24px.svg)
     static const IconData info = _OMIconData(0xeae2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-input-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/input/v1/24px.svg)
     static const IconData input = _OMIconData(0xeae3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-insert_chart_outlined-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/insert_chart_outlined/v1/24px.svg)
     static const IconData insertChartOutlined = _OMIconData(0xeae4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-insert_chart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/insert_chart/v1/24px.svg)
     static const IconData insertChart = _OMIconData(0xeae5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-insert_comment-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/insert_comment/v1/24px.svg)
     static const IconData insertComment = _OMIconData(0xeae6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-insert_drive_file-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/insert_drive_file/v1/24px.svg)
     static const IconData insertDriveFile = _OMIconData(0xeae7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-insert_emoticon-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/insert_emoticon/v1/24px.svg)
     static const IconData insertEmoticon = _OMIconData(0xeae8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-insert_invitation-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/insert_invitation/v1/24px.svg)
     static const IconData insertInvitation = _OMIconData(0xeae9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-insert_link-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/insert_link/v1/24px.svg)
     static const IconData insertLink = _OMIconData(0xeaea);
-    /// ![](https://material.io/tools/icons/static/icons/outline-insert_photo-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/insert_photo/v1/24px.svg)
     static const IconData insertPhoto = _OMIconData(0xeaeb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-invert_colors_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/invert_colors_off/v1/24px.svg)
     static const IconData invertColorsOff = _OMIconData(0xeaec);
-    /// ![](https://material.io/tools/icons/static/icons/outline-invert_colors-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/invert_colors/v1/24px.svg)
     static const IconData invertColors = _OMIconData(0xeaed);
-    /// ![](https://material.io/tools/icons/static/icons/outline-iso-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/iso/v1/24px.svg)
     static const IconData iso = _OMIconData(0xeaee);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_arrow_down-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_arrow_down/v1/24px.svg)
     static const IconData keyboardArrowDown = _OMIconData(0xeaef);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_arrow_left-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_arrow_left/v1/24px.svg)
     static const IconData keyboardArrowLeft = _OMIconData(0xeaf0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_arrow_right-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_arrow_right/v1/24px.svg)
     static const IconData keyboardArrowRight = _OMIconData(0xeaf1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_arrow_up-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_arrow_up/v1/24px.svg)
     static const IconData keyboardArrowUp = _OMIconData(0xeaf2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_backspace-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_backspace/v1/24px.svg)
     static const IconData keyboardBackspace = _OMIconData(0xeaf3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_capslock-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_capslock/v1/24px.svg)
     static const IconData keyboardCapslock = _OMIconData(0xeaf4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_hide-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_hide/v1/24px.svg)
     static const IconData keyboardHide = _OMIconData(0xeaf5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_return-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_return/v1/24px.svg)
     static const IconData keyboardReturn = _OMIconData(0xeaf6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_tab-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_tab/v1/24px.svg)
     static const IconData keyboardTab = _OMIconData(0xeaf7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard_voice-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard_voice/v1/24px.svg)
     static const IconData keyboardVoice = _OMIconData(0xeaf8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-keyboard-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/keyboard/v1/24px.svg)
     static const IconData keyboard = _OMIconData(0xeaf9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-kitchen-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/kitchen/v1/24px.svg)
     static const IconData kitchen = _OMIconData(0xeafa);
-    /// ![](https://material.io/tools/icons/static/icons/outline-label_important-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/label_important/v1/24px.svg)
     static const IconData labelImportant = _OMIconData(0xeafb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-label_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/label_off/v1/24px.svg)
     static const IconData labelOff = _OMIconData(0xeafc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-label-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/label/v1/24px.svg)
     static const IconData label = _OMIconData(0xeafd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-landscape-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/landscape/v1/24px.svg)
     static const IconData landscape = _OMIconData(0xeafe);
-    /// ![](https://material.io/tools/icons/static/icons/outline-language-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/language/v1/24px.svg)
     static const IconData language = _OMIconData(0xeaff);
-    /// ![](https://material.io/tools/icons/static/icons/outline-laptop_chromebook-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/laptop_chromebook/v1/24px.svg)
     static const IconData laptopChromebook = _OMIconData(0xeb00);
-    /// ![](https://material.io/tools/icons/static/icons/outline-laptop_mac-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/laptop_mac/v1/24px.svg)
     static const IconData laptopMac = _OMIconData(0xeb01);
-    /// ![](https://material.io/tools/icons/static/icons/outline-laptop_windows-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/laptop_windows/v1/24px.svg)
     static const IconData laptopWindows = _OMIconData(0xeb02);
-    /// ![](https://material.io/tools/icons/static/icons/outline-laptop-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/laptop/v1/24px.svg)
     static const IconData laptop = _OMIconData(0xeb03);
-    /// ![](https://material.io/tools/icons/static/icons/outline-last_page-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/last_page/v1/24px.svg)
     static const IconData lastPage = _OMIconData(0xeb04);
-    /// ![](https://material.io/tools/icons/static/icons/outline-launch-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/launch/v1/24px.svg)
     static const IconData launch = _OMIconData(0xeb05);
-    /// ![](https://material.io/tools/icons/static/icons/outline-layers_clear-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/layers_clear/v1/24px.svg)
     static const IconData layersClear = _OMIconData(0xeb06);
-    /// ![](https://material.io/tools/icons/static/icons/outline-layers-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/layers/v1/24px.svg)
     static const IconData layers = _OMIconData(0xeb07);
-    /// ![](https://material.io/tools/icons/static/icons/outline-leak_add-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/leak_add/v1/24px.svg)
     static const IconData leakAdd = _OMIconData(0xeb08);
-    /// ![](https://material.io/tools/icons/static/icons/outline-leak_remove-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/leak_remove/v1/24px.svg)
     static const IconData leakRemove = _OMIconData(0xeb09);
-    /// ![](https://material.io/tools/icons/static/icons/outline-lens-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/lens/v1/24px.svg)
     static const IconData lens = _OMIconData(0xeb0a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-library_add-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/library_add/v1/24px.svg)
     static const IconData libraryAdd = _OMIconData(0xeb0b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-library_books-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/library_books/v1/24px.svg)
     static const IconData libraryBooks = _OMIconData(0xeb0c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-library_music-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/library_music/v1/24px.svg)
     static const IconData libraryMusic = _OMIconData(0xeb0d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-line_style-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/line_style/v1/24px.svg)
     static const IconData lineStyle = _OMIconData(0xeb0e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-line_weight-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/line_weight/v1/24px.svg)
     static const IconData lineWeight = _OMIconData(0xeb0f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-linear_scale-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/linear_scale/v1/24px.svg)
     static const IconData linearScale = _OMIconData(0xeb10);
-    /// ![](https://material.io/tools/icons/static/icons/outline-link_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/link_off/v1/24px.svg)
     static const IconData linkOff = _OMIconData(0xeb11);
-    /// ![](https://material.io/tools/icons/static/icons/outline-link-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/link/v1/24px.svg)
     static const IconData link = _OMIconData(0xeb12);
-    /// ![](https://material.io/tools/icons/static/icons/outline-linked_camera-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/linked_camera/v1/24px.svg)
     static const IconData linkedCamera = _OMIconData(0xeb13);
-    /// ![](https://material.io/tools/icons/static/icons/outline-list_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/list_alt/v1/24px.svg)
     static const IconData listAlt = _OMIconData(0xeb14);
-    /// ![](https://material.io/tools/icons/static/icons/outline-list-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/list/v1/24px.svg)
     static const IconData list = _OMIconData(0xeb15);
-    /// ![](https://material.io/tools/icons/static/icons/outline-live_help-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/live_help/v1/24px.svg)
     static const IconData liveHelp = _OMIconData(0xeb16);
-    /// ![](https://material.io/tools/icons/static/icons/outline-live_tv-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/live_tv/v1/24px.svg)
     static const IconData liveTv = _OMIconData(0xeb17);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_activity-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_activity/v1/24px.svg)
     static const IconData localActivity = _OMIconData(0xeb18);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_airport-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_airport/v1/24px.svg)
     static const IconData localAirport = _OMIconData(0xeb19);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_atm-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_atm/v1/24px.svg)
     static const IconData localAtm = _OMIconData(0xeb1a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_bar-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_bar/v1/24px.svg)
     static const IconData localBar = _OMIconData(0xeb1b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_cafe-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_cafe/v1/24px.svg)
     static const IconData localCafe = _OMIconData(0xeb1c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_car_wash-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_car_wash/v1/24px.svg)
     static const IconData localCarWash = _OMIconData(0xeb1d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_convenience_store-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_convenience_store/v1/24px.svg)
     static const IconData localConvenienceStore = _OMIconData(0xeb1e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_dining-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_dining/v1/24px.svg)
     static const IconData localDining = _OMIconData(0xeb1f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_drink-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_drink/v1/24px.svg)
     static const IconData localDrink = _OMIconData(0xeb20);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_florist-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_florist/v1/24px.svg)
     static const IconData localFlorist = _OMIconData(0xeb21);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_gas_station-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_gas_station/v1/24px.svg)
     static const IconData localGasStation = _OMIconData(0xeb22);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_grocery_store-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_grocery_store/v1/24px.svg)
     static const IconData localGroceryStore = _OMIconData(0xeb23);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_hospital-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_hospital/v1/24px.svg)
     static const IconData localHospital = _OMIconData(0xeb24);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_hotel-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_hotel/v1/24px.svg)
     static const IconData localHotel = _OMIconData(0xeb25);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_laundry_service-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_laundry_service/v1/24px.svg)
     static const IconData localLaundryService = _OMIconData(0xeb26);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_library-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_library/v1/24px.svg)
     static const IconData localLibrary = _OMIconData(0xeb27);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_mall-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_mall/v1/24px.svg)
     static const IconData localMall = _OMIconData(0xeb28);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_movies-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_movies/v1/24px.svg)
     static const IconData localMovies = _OMIconData(0xeb29);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_offer-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_offer/v1/24px.svg)
     static const IconData localOffer = _OMIconData(0xeb2a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_parking-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_parking/v1/24px.svg)
     static const IconData localParking = _OMIconData(0xeb2b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_pharmacy-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_pharmacy/v1/24px.svg)
     static const IconData localPharmacy = _OMIconData(0xeb2c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_phone-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_phone/v1/24px.svg)
     static const IconData localPhone = _OMIconData(0xeb2d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_pizza-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_pizza/v1/24px.svg)
     static const IconData localPizza = _OMIconData(0xeb2e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_play-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_play/v1/24px.svg)
     static const IconData localPlay = _OMIconData(0xeb2f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_post_office-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_post_office/v1/24px.svg)
     static const IconData localPostOffice = _OMIconData(0xeb30);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_printshop-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_printshop/v1/24px.svg)
     static const IconData localPrintshop = _OMIconData(0xeb31);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_see-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_see/v1/24px.svg)
     static const IconData localSee = _OMIconData(0xeb32);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_shipping-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_shipping/v1/24px.svg)
     static const IconData localShipping = _OMIconData(0xeb33);
-    /// ![](https://material.io/tools/icons/static/icons/outline-local_taxi-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/local_taxi/v1/24px.svg)
     static const IconData localTaxi = _OMIconData(0xeb34);
-    /// ![](https://material.io/tools/icons/static/icons/outline-location_city-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/location_city/v1/24px.svg)
     static const IconData locationCity = _OMIconData(0xeb35);
-    /// ![](https://material.io/tools/icons/static/icons/outline-location_disabled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/location_disabled/v1/24px.svg)
     static const IconData locationDisabled = _OMIconData(0xeb36);
-    /// ![](https://material.io/tools/icons/static/icons/outline-location_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/location_off/v1/24px.svg)
     static const IconData locationOff = _OMIconData(0xeb37);
-    /// ![](https://material.io/tools/icons/static/icons/outline-location_on-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/location_on/v1/24px.svg)
     static const IconData locationOn = _OMIconData(0xeb38);
-    /// ![](https://material.io/tools/icons/static/icons/outline-location_searching-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/location_searching/v1/24px.svg)
     static const IconData locationSearching = _OMIconData(0xeb39);
-    /// ![](https://material.io/tools/icons/static/icons/outline-lock_open-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/lock_open/v1/24px.svg)
     static const IconData lockOpen = _OMIconData(0xeb3a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-lock-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/lock/v1/24px.svg)
     static const IconData lock = _OMIconData(0xeb3b);
     /// ![](https://material.io/tools/icons/static/icons/outline-looks_3-24px.svg)
     static const IconData looks3 = _OMIconData(0xeb3c);
@@ -1095,391 +1095,391 @@ class OMIcons {
     static const IconData looks5 = _OMIconData(0xeb3e);
     /// ![](https://material.io/tools/icons/static/icons/outline-looks_6-24px.svg)
     static const IconData looks6 = _OMIconData(0xeb3f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-looks_one-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/looks_one/v1/24px.svg)
     static const IconData looksOne = _OMIconData(0xeb40);
-    /// ![](https://material.io/tools/icons/static/icons/outline-looks_two-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/looks_two/v1/24px.svg)
     static const IconData looksTwo = _OMIconData(0xeb41);
-    /// ![](https://material.io/tools/icons/static/icons/outline-looks-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/looks/v1/24px.svg)
     static const IconData looks = _OMIconData(0xeb42);
-    /// ![](https://material.io/tools/icons/static/icons/outline-loop-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/loop/v1/24px.svg)
     static const IconData loop = _OMIconData(0xeb43);
-    /// ![](https://material.io/tools/icons/static/icons/outline-loupe-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/loupe/v1/24px.svg)
     static const IconData loupe = _OMIconData(0xeb44);
-    /// ![](https://material.io/tools/icons/static/icons/outline-low_priority-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/low_priority/v1/24px.svg)
     static const IconData lowPriority = _OMIconData(0xeb45);
-    /// ![](https://material.io/tools/icons/static/icons/outline-loyalty-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/loyalty/v1/24px.svg)
     static const IconData loyalty = _OMIconData(0xeb46);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mail_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mail_outline/v1/24px.svg)
     static const IconData mailOutline = _OMIconData(0xeb47);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mail-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mail/v1/24px.svg)
     static const IconData mail = _OMIconData(0xeb48);
-    /// ![](https://material.io/tools/icons/static/icons/outline-map-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg)
     static const IconData map = _OMIconData(0xeb49);
-    /// ![](https://material.io/tools/icons/static/icons/outline-markunread_mailbox-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/markunread_mailbox/v1/24px.svg)
     static const IconData markunreadMailbox = _OMIconData(0xeb4a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-markunread-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/markunread/v1/24px.svg)
     static const IconData markunread = _OMIconData(0xeb4b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-maximize-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/maximize/v1/24px.svg)
     static const IconData maximize = _OMIconData(0xeb4c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-meeting_room-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/meeting_room/v1/24px.svg)
     static const IconData meetingRoom = _OMIconData(0xeb4d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-memory-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/memory/v1/24px.svg)
     static const IconData memory = _OMIconData(0xeb4e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-menu-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/menu/v1/24px.svg)
     static const IconData menu = _OMIconData(0xeb4f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-merge_type-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/merge_type/v1/24px.svg)
     static const IconData mergeType = _OMIconData(0xeb50);
-    /// ![](https://material.io/tools/icons/static/icons/outline-message-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/message/v1/24px.svg)
     static const IconData message = _OMIconData(0xeb51);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mic_none-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mic_none/v1/24px.svg)
     static const IconData micNone = _OMIconData(0xeb52);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mic_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mic_off/v1/24px.svg)
     static const IconData micOff = _OMIconData(0xeb53);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mic-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mic/v1/24px.svg)
     static const IconData mic = _OMIconData(0xeb54);
-    /// ![](https://material.io/tools/icons/static/icons/outline-minimize-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/minimize/v1/24px.svg)
     static const IconData minimize = _OMIconData(0xeb55);
-    /// ![](https://material.io/tools/icons/static/icons/outline-missed_video_call-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/missed_video_call/v1/24px.svg)
     static const IconData missedVideoCall = _OMIconData(0xeb56);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mms-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mms/v1/24px.svg)
     static const IconData mms = _OMIconData(0xeb57);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mobile_friendly-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mobile_friendly/v1/24px.svg)
     static const IconData mobileFriendly = _OMIconData(0xeb58);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mobile_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mobile_off/v1/24px.svg)
     static const IconData mobileOff = _OMIconData(0xeb59);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mobile_screen_share-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mobile_screen_share/v1/24px.svg)
     static const IconData mobileScreenShare = _OMIconData(0xeb5a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mode_comment-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mode_comment/v1/24px.svg)
     static const IconData modeComment = _OMIconData(0xeb5b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-monetization_on-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/monetization_on/v1/24px.svg)
     static const IconData monetizationOn = _OMIconData(0xeb5c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-money_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/money_off/v1/24px.svg)
     static const IconData moneyOff = _OMIconData(0xeb5d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-money-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/money/v1/24px.svg)
     static const IconData money = _OMIconData(0xeb5e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-monochrome_photos-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/monochrome_photos/v1/24px.svg)
     static const IconData monochromePhotos = _OMIconData(0xeb5f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mood_bad-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mood_bad/v1/24px.svg)
     static const IconData moodBad = _OMIconData(0xeb60);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mood-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mood/v1/24px.svg)
     static const IconData mood = _OMIconData(0xeb61);
-    /// ![](https://material.io/tools/icons/static/icons/outline-more_horiz-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/more_horiz/v1/24px.svg)
     static const IconData moreHoriz = _OMIconData(0xeb62);
-    /// ![](https://material.io/tools/icons/static/icons/outline-more_vert-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/more_vert/v1/24px.svg)
     static const IconData moreVert = _OMIconData(0xeb63);
-    /// ![](https://material.io/tools/icons/static/icons/outline-more-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/more/v1/24px.svg)
     static const IconData more = _OMIconData(0xeb64);
-    /// ![](https://material.io/tools/icons/static/icons/outline-motorcycle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/motorcycle/v1/24px.svg)
     static const IconData motorcycle = _OMIconData(0xeb65);
-    /// ![](https://material.io/tools/icons/static/icons/outline-mouse-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/mouse/v1/24px.svg)
     static const IconData mouse = _OMIconData(0xeb66);
-    /// ![](https://material.io/tools/icons/static/icons/outline-move_to_inbox-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/move_to_inbox/v1/24px.svg)
     static const IconData moveToInbox = _OMIconData(0xeb67);
-    /// ![](https://material.io/tools/icons/static/icons/outline-movie_creation-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/movie_creation/v1/24px.svg)
     static const IconData movieCreation = _OMIconData(0xeb68);
-    /// ![](https://material.io/tools/icons/static/icons/outline-movie_filter-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/movie_filter/v1/24px.svg)
     static const IconData movieFilter = _OMIconData(0xeb69);
-    /// ![](https://material.io/tools/icons/static/icons/outline-movie-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/movie/v1/24px.svg)
     static const IconData movie = _OMIconData(0xeb6a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-multiline_chart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/multiline_chart/v1/24px.svg)
     static const IconData multilineChart = _OMIconData(0xeb6b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-music_note-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/music_note/v1/24px.svg)
     static const IconData musicNote = _OMIconData(0xeb6c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-music_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/music_off/v1/24px.svg)
     static const IconData musicOff = _OMIconData(0xeb6d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-music_video-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/music_video/v1/24px.svg)
     static const IconData musicVideo = _OMIconData(0xeb6e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-my_location-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/my_location/v1/24px.svg)
     static const IconData myLocation = _OMIconData(0xeb6f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-nature_people-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/nature_people/v1/24px.svg)
     static const IconData naturePeople = _OMIconData(0xeb70);
-    /// ![](https://material.io/tools/icons/static/icons/outline-nature-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/nature/v1/24px.svg)
     static const IconData nature = _OMIconData(0xeb71);
-    /// ![](https://material.io/tools/icons/static/icons/outline-navigate_before-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/navigate_before/v1/24px.svg)
     static const IconData navigateBefore = _OMIconData(0xeb72);
-    /// ![](https://material.io/tools/icons/static/icons/outline-navigate_next-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/navigate_next/v1/24px.svg)
     static const IconData navigateNext = _OMIconData(0xeb73);
-    /// ![](https://material.io/tools/icons/static/icons/outline-navigation-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/navigation/v1/24px.svg)
     static const IconData navigation = _OMIconData(0xeb74);
-    /// ![](https://material.io/tools/icons/static/icons/outline-near_me-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/near_me/v1/24px.svg)
     static const IconData nearMe = _OMIconData(0xeb75);
-    /// ![](https://material.io/tools/icons/static/icons/outline-network_check-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/network_check/v1/24px.svg)
     static const IconData networkCheck = _OMIconData(0xeb78);
-    /// ![](https://material.io/tools/icons/static/icons/outline-network_locked-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/network_locked/v1/24px.svg)
     static const IconData networkLocked = _OMIconData(0xeb79);
-    /// ![](https://material.io/tools/icons/static/icons/outline-new_releases-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/new_releases/v1/24px.svg)
     static const IconData newReleases = _OMIconData(0xeb7c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-next_week-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/next_week/v1/24px.svg)
     static const IconData nextWeek = _OMIconData(0xeb7d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-nfc-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/nfc/v1/24px.svg)
     static const IconData nfc = _OMIconData(0xeb7e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-no_encryption-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/no_encryption/v1/24px.svg)
     static const IconData noEncryption = _OMIconData(0xeb7f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-no_meeting_room-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/no_meeting_room/v1/24px.svg)
     static const IconData noMeetingRoom = _OMIconData(0xeb80);
-    /// ![](https://material.io/tools/icons/static/icons/outline-no_sim-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/no_sim/v1/24px.svg)
     static const IconData noSim = _OMIconData(0xeb81);
-    /// ![](https://material.io/tools/icons/static/icons/outline-not_interested-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/not_interested/v1/24px.svg)
     static const IconData notInterested = _OMIconData(0xeb82);
-    /// ![](https://material.io/tools/icons/static/icons/outline-not_listed_location-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/not_listed_location/v1/24px.svg)
     static const IconData notListedLocation = _OMIconData(0xeb83);
-    /// ![](https://material.io/tools/icons/static/icons/outline-note_add-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/note_add/v1/24px.svg)
     static const IconData noteAdd = _OMIconData(0xeb84);
-    /// ![](https://material.io/tools/icons/static/icons/outline-note-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/note/v1/24px.svg)
     static const IconData note = _OMIconData(0xeb85);
-    /// ![](https://material.io/tools/icons/static/icons/outline-notes-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/notes/v1/24px.svg)
     static const IconData notes = _OMIconData(0xeb86);
-    /// ![](https://material.io/tools/icons/static/icons/outline-notification_important-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/notification_important/v1/24px.svg)
     static const IconData notificationImportant = _OMIconData(0xeb87);
-    /// ![](https://material.io/tools/icons/static/icons/outline-notifications_active-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/notifications_active/v1/24px.svg)
     static const IconData notificationsActive = _OMIconData(0xeb88);
-    /// ![](https://material.io/tools/icons/static/icons/outline-notifications_none-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/notifications_none/v1/24px.svg)
     static const IconData notificationsNone = _OMIconData(0xeb89);
-    /// ![](https://material.io/tools/icons/static/icons/outline-notifications_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/notifications_off/v1/24px.svg)
     static const IconData notificationsOff = _OMIconData(0xeb8a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-notifications_paused-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/notifications_paused/v1/24px.svg)
     static const IconData notificationsPaused = _OMIconData(0xeb8b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-notifications-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/notifications/v1/24px.svg)
     static const IconData notifications = _OMIconData(0xeb8c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-offline_bolt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/offline_bolt/v1/24px.svg)
     static const IconData offlineBolt = _OMIconData(0xeb8d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-offline_pin-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/offline_pin/v1/24px.svg)
     static const IconData offlinePin = _OMIconData(0xeb8e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-ondemand_video-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/ondemand_video/v1/24px.svg)
     static const IconData ondemandVideo = _OMIconData(0xeb8f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-opacity-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/opacity/v1/24px.svg)
     static const IconData opacity = _OMIconData(0xeb90);
-    /// ![](https://material.io/tools/icons/static/icons/outline-open_in_browser-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/open_in_browser/v1/24px.svg)
     static const IconData openInBrowser = _OMIconData(0xeb91);
-    /// ![](https://material.io/tools/icons/static/icons/outline-open_in_new-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/open_in_new/v1/24px.svg)
     static const IconData openInNew = _OMIconData(0xeb92);
-    /// ![](https://material.io/tools/icons/static/icons/outline-open_with-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/open_with/v1/24px.svg)
     static const IconData openWith = _OMIconData(0xeb93);
-    /// ![](https://material.io/tools/icons/static/icons/outline-outlined_flag-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/outlined_flag/v1/24px.svg)
     static const IconData outlinedFlag = _OMIconData(0xeb94);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pages-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pages/v1/24px.svg)
     static const IconData pages = _OMIconData(0xeb95);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pageview-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pageview/v1/24px.svg)
     static const IconData pageview = _OMIconData(0xeb96);
-    /// ![](https://material.io/tools/icons/static/icons/outline-palette-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/palette/v1/24px.svg)
     static const IconData palette = _OMIconData(0xeb97);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pan_tool-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pan_tool/v1/24px.svg)
     static const IconData panTool = _OMIconData(0xeb98);
-    /// ![](https://material.io/tools/icons/static/icons/outline-panorama_fish_eye-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/panorama_fish_eye/v1/24px.svg)
     static const IconData panoramaFishEye = _OMIconData(0xeb99);
-    /// ![](https://material.io/tools/icons/static/icons/outline-panorama_horizontal-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/panorama_horizontal/v1/24px.svg)
     static const IconData panoramaHorizontal = _OMIconData(0xeb9a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-panorama_vertical-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/panorama_vertical/v1/24px.svg)
     static const IconData panoramaVertical = _OMIconData(0xeb9b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-panorama_wide_angle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/panorama_wide_angle/v1/24px.svg)
     static const IconData panoramaWideAngle = _OMIconData(0xeb9c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-panorama-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/panorama/v1/24px.svg)
     static const IconData panorama = _OMIconData(0xeb9d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-party_mode-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/party_mode/v1/24px.svg)
     static const IconData partyMode = _OMIconData(0xeb9e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pause_circle_filled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pause_circle_filled/v1/24px.svg)
     static const IconData pauseCircleFilled = _OMIconData(0xeb9f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pause_circle_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pause_circle_outline/v1/24px.svg)
     static const IconData pauseCircleOutline = _OMIconData(0xeba0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pause_presentation-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pause_presentation/v1/24px.svg)
     static const IconData pausePresentation = _OMIconData(0xeba1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pause-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pause/v1/24px.svg)
     static const IconData pause = _OMIconData(0xeba2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-payment-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/payment/v1/24px.svg)
     static const IconData payment = _OMIconData(0xeba3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-people_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/people_outline/v1/24px.svg)
     static const IconData peopleOutline = _OMIconData(0xeba4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-people-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/people/v1/24px.svg)
     static const IconData people = _OMIconData(0xeba5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-perm_camera_mic-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/perm_camera_mic/v1/24px.svg)
     static const IconData permCameraMic = _OMIconData(0xeba6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-perm_contact_calendar-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/perm_contact_calendar/v1/24px.svg)
     static const IconData permContactCalendar = _OMIconData(0xeba7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-perm_data_setting-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/perm_data_setting/v1/24px.svg)
     static const IconData permDataSetting = _OMIconData(0xeba8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-perm_device_information-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/perm_device_information/v1/24px.svg)
     static const IconData permDeviceInformation = _OMIconData(0xeba9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-perm_identity-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/perm_identity/v1/24px.svg)
     static const IconData permIdentity = _OMIconData(0xebaa);
-    /// ![](https://material.io/tools/icons/static/icons/outline-perm_media-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/perm_media/v1/24px.svg)
     static const IconData permMedia = _OMIconData(0xebab);
-    /// ![](https://material.io/tools/icons/static/icons/outline-perm_phone_msg-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/perm_phone_msg/v1/24px.svg)
     static const IconData permPhoneMsg = _OMIconData(0xebac);
-    /// ![](https://material.io/tools/icons/static/icons/outline-perm_scan_wifi-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/perm_scan_wifi/v1/24px.svg)
     static const IconData permScanWifi = _OMIconData(0xebad);
-    /// ![](https://material.io/tools/icons/static/icons/outline-person_add_disabled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/person_add_disabled/v1/24px.svg)
     static const IconData personAddDisabled = _OMIconData(0xebae);
-    /// ![](https://material.io/tools/icons/static/icons/outline-person_add-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/person_add/v1/24px.svg)
     static const IconData personAdd = _OMIconData(0xebaf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-person_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/person_outline/v1/24px.svg)
     static const IconData personOutline = _OMIconData(0xebb0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-person_pin_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/person_pin_circle/v1/24px.svg)
     static const IconData personPinCircle = _OMIconData(0xebb1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-person_pin-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/person_pin/v1/24px.svg)
     static const IconData personPin = _OMIconData(0xebb2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-person-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/person/v1/24px.svg)
     static const IconData person = _OMIconData(0xebb3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-personal_video-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/personal_video/v1/24px.svg)
     static const IconData personalVideo = _OMIconData(0xebb4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pets-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pets/v1/24px.svg)
     static const IconData pets = _OMIconData(0xebb5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_android-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_android/v1/24px.svg)
     static const IconData phoneAndroid = _OMIconData(0xebb6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_bluetooth_speaker-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_bluetooth_speaker/v1/24px.svg)
     static const IconData phoneBluetoothSpeaker = _OMIconData(0xebb7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_callback-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_callback/v1/24px.svg)
     static const IconData phoneCallback = _OMIconData(0xebb8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_forwarded-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_forwarded/v1/24px.svg)
     static const IconData phoneForwarded = _OMIconData(0xebb9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_in_talk-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_in_talk/v1/24px.svg)
     static const IconData phoneInTalk = _OMIconData(0xebba);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_iphone-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_iphone/v1/24px.svg)
     static const IconData phoneIphone = _OMIconData(0xebbb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_locked-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_locked/v1/24px.svg)
     static const IconData phoneLocked = _OMIconData(0xebbc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_missed-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_missed/v1/24px.svg)
     static const IconData phoneMissed = _OMIconData(0xebbd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone_paused-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_paused/v1/24px.svg)
     static const IconData phonePaused = _OMIconData(0xebbe);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phone-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone/v1/24px.svg)
     static const IconData phone = _OMIconData(0xebbf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phonelink_erase-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phonelink_erase/v1/24px.svg)
     static const IconData phonelinkErase = _OMIconData(0xebc0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phonelink_lock-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phonelink_lock/v1/24px.svg)
     static const IconData phonelinkLock = _OMIconData(0xebc1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phonelink_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phonelink_off/v1/24px.svg)
     static const IconData phonelinkOff = _OMIconData(0xebc2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phonelink_ring-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phonelink_ring/v1/24px.svg)
     static const IconData phonelinkRing = _OMIconData(0xebc3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phonelink_setup-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phonelink_setup/v1/24px.svg)
     static const IconData phonelinkSetup = _OMIconData(0xebc4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-phonelink-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phonelink/v1/24px.svg)
     static const IconData phonelink = _OMIconData(0xebc5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-photo_album-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/photo_album/v1/24px.svg)
     static const IconData photoAlbum = _OMIconData(0xebc6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-photo_camera-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/photo_camera/v1/24px.svg)
     static const IconData photoCamera = _OMIconData(0xebc7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-photo_filter-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/photo_filter/v1/24px.svg)
     static const IconData photoFilter = _OMIconData(0xebc8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-photo_library-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/photo_library/v1/24px.svg)
     static const IconData photoLibrary = _OMIconData(0xebc9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-photo_size_select_actual-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/photo_size_select_actual/v1/24px.svg)
     static const IconData photoSizeSelectActual = _OMIconData(0xebca);
-    /// ![](https://material.io/tools/icons/static/icons/outline-photo_size_select_large-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/photo_size_select_large/v1/24px.svg)
     static const IconData photoSizeSelectLarge = _OMIconData(0xebcb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-photo_size_select_small-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/photo_size_select_small/v1/24px.svg)
     static const IconData photoSizeSelectSmall = _OMIconData(0xebcc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-photo-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/photo/v1/24px.svg)
     static const IconData photo = _OMIconData(0xebcd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-picture_as_pdf-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/picture_as_pdf/v1/24px.svg)
     static const IconData pictureAsPdf = _OMIconData(0xebce);
-    /// ![](https://material.io/tools/icons/static/icons/outline-picture_in_picture_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/picture_in_picture_alt/v1/24px.svg)
     static const IconData pictureInPictureAlt = _OMIconData(0xebcf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-picture_in_picture-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/picture_in_picture/v1/24px.svg)
     static const IconData pictureInPicture = _OMIconData(0xebd0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pie_chart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pie_chart/v1/24px.svg)
     static const IconData pieChart = _OMIconData(0xebd1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pin_drop-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pin_drop/v1/24px.svg)
     static const IconData pinDrop = _OMIconData(0xebd2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-place-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/place/v1/24px.svg)
     static const IconData place = _OMIconData(0xebd3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-play_arrow-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/play_arrow/v1/24px.svg)
     static const IconData playArrow = _OMIconData(0xebd4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-play_circle_filled_white-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/play_circle_filled_white/v1/24px.svg)
     static const IconData playCircleFilledWhite = _OMIconData(0xebd5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-play_circle_filled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/play_circle_filled/v1/24px.svg)
     static const IconData playCircleFilled = _OMIconData(0xebd6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-play_circle_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/play_circle_outline/v1/24px.svg)
     static const IconData playCircleOutline = _OMIconData(0xebd7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-play_for_work-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/play_for_work/v1/24px.svg)
     static const IconData playForWork = _OMIconData(0xebd8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-playlist_add_check-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/playlist_add_check/v1/24px.svg)
     static const IconData playlistAddCheck = _OMIconData(0xebd9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-playlist_add-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/playlist_add/v1/24px.svg)
     static const IconData playlistAdd = _OMIconData(0xebda);
-    /// ![](https://material.io/tools/icons/static/icons/outline-playlist_play-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/playlist_play/v1/24px.svg)
     static const IconData playlistPlay = _OMIconData(0xebdb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-plus_one-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/plus_one/v1/24px.svg)
     static const IconData plusOne = _OMIconData(0xebdc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-poll-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/poll/v1/24px.svg)
     static const IconData poll = _OMIconData(0xebdd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-polymer-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/polymer/v1/24px.svg)
     static const IconData polymer = _OMIconData(0xebde);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pool-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pool/v1/24px.svg)
     static const IconData pool = _OMIconData(0xebdf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-portable_wifi_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/portable_wifi_off/v1/24px.svg)
     static const IconData portableWifiOff = _OMIconData(0xebe0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-portrait-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/portrait/v1/24px.svg)
     static const IconData portrait = _OMIconData(0xebe1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-power_input-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/power_input/v1/24px.svg)
     static const IconData powerInput = _OMIconData(0xebe2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-power_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/power_off/v1/24px.svg)
     static const IconData powerOff = _OMIconData(0xebe3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-power_settings_new-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/power_settings_new/v1/24px.svg)
     static const IconData powerSettingsNew = _OMIconData(0xebe4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-power-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/power/v1/24px.svg)
     static const IconData power = _OMIconData(0xebe5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-pregnant_woman-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/pregnant_woman/v1/24px.svg)
     static const IconData pregnantWoman = _OMIconData(0xebe6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-present_to_all-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/present_to_all/v1/24px.svg)
     static const IconData presentToAll = _OMIconData(0xebe7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-print_disabled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/print_disabled/v1/24px.svg)
     static const IconData printDisabled = _OMIconData(0xebe8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-print-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/print/v1/24px.svg)
     static const IconData print = _OMIconData(0xebe9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-priority_high-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/priority_high/v1/24px.svg)
     static const IconData priorityHigh = _OMIconData(0xebea);
-    /// ![](https://material.io/tools/icons/static/icons/outline-public-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/public/v1/24px.svg)
     static const IconData public = _OMIconData(0xebeb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-publish-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/publish/v1/24px.svg)
     static const IconData publish = _OMIconData(0xebec);
-    /// ![](https://material.io/tools/icons/static/icons/outline-query_builder-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/query_builder/v1/24px.svg)
     static const IconData queryBuilder = _OMIconData(0xebed);
-    /// ![](https://material.io/tools/icons/static/icons/outline-question_answer-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/question_answer/v1/24px.svg)
     static const IconData questionAnswer = _OMIconData(0xebee);
-    /// ![](https://material.io/tools/icons/static/icons/outline-queue_music-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/queue_music/v1/24px.svg)
     static const IconData queueMusic = _OMIconData(0xebef);
-    /// ![](https://material.io/tools/icons/static/icons/outline-queue_play_next-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/queue_play_next/v1/24px.svg)
     static const IconData queuePlayNext = _OMIconData(0xebf0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-queue-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/queue/v1/24px.svg)
     static const IconData queue = _OMIconData(0xebf1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-radio_button_checked-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/radio_button_checked/v1/24px.svg)
     static const IconData radioButtonChecked = _OMIconData(0xebf2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-radio_button_unchecked-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/radio_button_unchecked/v1/24px.svg)
     static const IconData radioButtonUnchecked = _OMIconData(0xebf3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-radio-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/radio/v1/24px.svg)
     static const IconData radio = _OMIconData(0xebf4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-rate_review-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/rate_review/v1/24px.svg)
     static const IconData rateReview = _OMIconData(0xebf5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-receipt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/receipt/v1/24px.svg)
     static const IconData receipt = _OMIconData(0xebf6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-recent_actors-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/recent_actors/v1/24px.svg)
     static const IconData recentActors = _OMIconData(0xebf7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-record_voice_over-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/record_voice_over/v1/24px.svg)
     static const IconData recordVoiceOver = _OMIconData(0xebf8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-redeem-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/redeem/v1/24px.svg)
     static const IconData redeem = _OMIconData(0xebf9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-redo-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/redo/v1/24px.svg)
     static const IconData redo = _OMIconData(0xebfa);
-    /// ![](https://material.io/tools/icons/static/icons/outline-refresh-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/refresh/v1/24px.svg)
     static const IconData refresh = _OMIconData(0xebfb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-remove_circle_outline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/remove_circle_outline/v1/24px.svg)
     static const IconData removeCircleOutline = _OMIconData(0xebfc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-remove_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/remove_circle/v1/24px.svg)
     static const IconData removeCircle = _OMIconData(0xebfd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-remove_from_queue-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/remove_from_queue/v1/24px.svg)
     static const IconData removeFromQueue = _OMIconData(0xebfe);
-    /// ![](https://material.io/tools/icons/static/icons/outline-remove_red_eye-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/remove_red_eye/v1/24px.svg)
     static const IconData removeRedEye = _OMIconData(0xebff);
-    /// ![](https://material.io/tools/icons/static/icons/outline-remove_shopping_cart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/remove_shopping_cart/v1/24px.svg)
     static const IconData removeShoppingCart = _OMIconData(0xec00);
-    /// ![](https://material.io/tools/icons/static/icons/outline-remove-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/remove/v1/24px.svg)
     static const IconData remove = _OMIconData(0xec01);
-    /// ![](https://material.io/tools/icons/static/icons/outline-reorder-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/reorder/v1/24px.svg)
     static const IconData reorder = _OMIconData(0xec02);
-    /// ![](https://material.io/tools/icons/static/icons/outline-repeat_one-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/repeat_one/v1/24px.svg)
     static const IconData repeatOne = _OMIconData(0xec03);
-    /// ![](https://material.io/tools/icons/static/icons/outline-repeat-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/repeat/v1/24px.svg)
     static const IconData repeat = _OMIconData(0xec04);
     /// ![](https://material.io/tools/icons/static/icons/outline-replay_5-24px.svg)
     static const IconData replay5 = _OMIconData(0xec05);
@@ -1487,483 +1487,483 @@ class OMIcons {
     static const IconData replay10 = _OMIconData(0xec06);
     /// ![](https://material.io/tools/icons/static/icons/outline-replay_30-24px.svg)
     static const IconData replay30 = _OMIconData(0xec07);
-    /// ![](https://material.io/tools/icons/static/icons/outline-replay-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/replay/v1/24px.svg)
     static const IconData replay = _OMIconData(0xec08);
-    /// ![](https://material.io/tools/icons/static/icons/outline-reply_all-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/reply_all/v1/24px.svg)
     static const IconData replyAll = _OMIconData(0xec09);
-    /// ![](https://material.io/tools/icons/static/icons/outline-reply-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/reply/v1/24px.svg)
     static const IconData reply = _OMIconData(0xec0a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-report_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/report_off/v1/24px.svg)
     static const IconData reportOff = _OMIconData(0xec0b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-report_problem-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/report_problem/v1/24px.svg)
     static const IconData reportProblem = _OMIconData(0xec0c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-report-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/report/v1/24px.svg)
     static const IconData report = _OMIconData(0xec0d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-restaurant_menu-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/restaurant_menu/v1/24px.svg)
     static const IconData restaurantMenu = _OMIconData(0xec0e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-restaurant-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/restaurant/v1/24px.svg)
     static const IconData restaurant = _OMIconData(0xec0f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-restore_from_trash-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/restore_from_trash/v1/24px.svg)
     static const IconData restoreFromTrash = _OMIconData(0xec10);
-    /// ![](https://material.io/tools/icons/static/icons/outline-restore_page-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/restore_page/v1/24px.svg)
     static const IconData restorePage = _OMIconData(0xec11);
-    /// ![](https://material.io/tools/icons/static/icons/outline-restore-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/restore/v1/24px.svg)
     static const IconData restore = _OMIconData(0xec12);
-    /// ![](https://material.io/tools/icons/static/icons/outline-ring_volume-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/ring_volume/v1/24px.svg)
     static const IconData ringVolume = _OMIconData(0xec13);
-    /// ![](https://material.io/tools/icons/static/icons/outline-room_service-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/room_service/v1/24px.svg)
     static const IconData roomService = _OMIconData(0xec14);
-    /// ![](https://material.io/tools/icons/static/icons/outline-room-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/room/v1/24px.svg)
     static const IconData room = _OMIconData(0xec15);
     /// ![](https://material.io/tools/icons/static/icons/outline-rotate_90_degrees_ccw-24px.svg)
     static const IconData rotate90DegreesCcw = _OMIconData(0xec16);
-    /// ![](https://material.io/tools/icons/static/icons/outline-rotate_left-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/rotate_left/v1/24px.svg)
     static const IconData rotateLeft = _OMIconData(0xec17);
-    /// ![](https://material.io/tools/icons/static/icons/outline-rotate_right-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/rotate_right/v1/24px.svg)
     static const IconData rotateRight = _OMIconData(0xec18);
-    /// ![](https://material.io/tools/icons/static/icons/outline-rounded_corner-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/rounded_corner/v1/24px.svg)
     static const IconData roundedCorner = _OMIconData(0xec19);
-    /// ![](https://material.io/tools/icons/static/icons/outline-router-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/router/v1/24px.svg)
     static const IconData router = _OMIconData(0xec1a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-rowing-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/rowing/v1/24px.svg)
     static const IconData rowing = _OMIconData(0xec1b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-rss_feed-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/rss_feed/v1/24px.svg)
     static const IconData rssFeed = _OMIconData(0xec1c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-rv_hookup-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/rv_hookup/v1/24px.svg)
     static const IconData rvHookup = _OMIconData(0xec1d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-satellite-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/satellite/v1/24px.svg)
     static const IconData satellite = _OMIconData(0xec1e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-save_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/save_alt/v1/24px.svg)
     static const IconData saveAlt = _OMIconData(0xec1f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-save-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/save/v1/24px.svg)
     static const IconData save = _OMIconData(0xec20);
-    /// ![](https://material.io/tools/icons/static/icons/outline-scanner-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/scanner/v1/24px.svg)
     static const IconData scanner = _OMIconData(0xec21);
-    /// ![](https://material.io/tools/icons/static/icons/outline-scatter_plot-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/scatter_plot/v1/24px.svg)
     static const IconData scatterPlot = _OMIconData(0xec22);
-    /// ![](https://material.io/tools/icons/static/icons/outline-schedule-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/schedule/v1/24px.svg)
     static const IconData schedule = _OMIconData(0xec23);
-    /// ![](https://material.io/tools/icons/static/icons/outline-school-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/school/v1/24px.svg)
     static const IconData school = _OMIconData(0xec24);
-    /// ![](https://material.io/tools/icons/static/icons/outline-score-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/score/v1/24px.svg)
     static const IconData score = _OMIconData(0xec25);
-    /// ![](https://material.io/tools/icons/static/icons/outline-screen_lock_landscape-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/screen_lock_landscape/v1/24px.svg)
     static const IconData screenLockLandscape = _OMIconData(0xec26);
-    /// ![](https://material.io/tools/icons/static/icons/outline-screen_lock_portrait-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/screen_lock_portrait/v1/24px.svg)
     static const IconData screenLockPortrait = _OMIconData(0xec27);
-    /// ![](https://material.io/tools/icons/static/icons/outline-screen_lock_rotation-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/screen_lock_rotation/v1/24px.svg)
     static const IconData screenLockRotation = _OMIconData(0xec28);
-    /// ![](https://material.io/tools/icons/static/icons/outline-screen_rotation-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/screen_rotation/v1/24px.svg)
     static const IconData screenRotation = _OMIconData(0xec29);
-    /// ![](https://material.io/tools/icons/static/icons/outline-screen_share-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/screen_share/v1/24px.svg)
     static const IconData screenShare = _OMIconData(0xec2a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sd_card-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sd_card/v1/24px.svg)
     static const IconData sdCard = _OMIconData(0xec2b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sd_storage-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sd_storage/v1/24px.svg)
     static const IconData sdStorage = _OMIconData(0xec2c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-search-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/search/v1/24px.svg)
     static const IconData search = _OMIconData(0xec2d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-security-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/security/v1/24px.svg)
     static const IconData security = _OMIconData(0xec2e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-select_all-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/select_all/v1/24px.svg)
     static const IconData selectAll = _OMIconData(0xec2f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-send-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/send/v1/24px.svg)
     static const IconData send = _OMIconData(0xec30);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sentiment_dissatisfied-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sentiment_dissatisfied/v1/24px.svg)
     static const IconData sentimentDissatisfied = _OMIconData(0xec31);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sentiment_satisfied_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sentiment_satisfied_alt/v1/24px.svg)
     static const IconData sentimentSatisfiedAlt = _OMIconData(0xec32);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sentiment_satisfied-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sentiment_satisfied/v1/24px.svg)
     static const IconData sentimentSatisfied = _OMIconData(0xec33);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sentiment_very_dissatisfied-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sentiment_very_dissatisfied/v1/24px.svg)
     static const IconData sentimentVeryDissatisfied = _OMIconData(0xec34);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sentiment_very_satisfied-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sentiment_very_satisfied/v1/24px.svg)
     static const IconData sentimentVerySatisfied = _OMIconData(0xec35);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_applications-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_applications/v1/24px.svg)
     static const IconData settingsApplications = _OMIconData(0xec36);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_backup_restore-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_backup_restore/v1/24px.svg)
     static const IconData settingsBackupRestore = _OMIconData(0xec37);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_bluetooth-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_bluetooth/v1/24px.svg)
     static const IconData settingsBluetooth = _OMIconData(0xec38);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_brightness-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_brightness/v1/24px.svg)
     static const IconData settingsBrightness = _OMIconData(0xec39);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_cell-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_cell/v1/24px.svg)
     static const IconData settingsCell = _OMIconData(0xec3a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_ethernet-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_ethernet/v1/24px.svg)
     static const IconData settingsEthernet = _OMIconData(0xec3b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_input_antenna-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_input_antenna/v1/24px.svg)
     static const IconData settingsInputAntenna = _OMIconData(0xec3c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_input_component-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_input_component/v1/24px.svg)
     static const IconData settingsInputComponent = _OMIconData(0xec3d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_input_composite-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_input_composite/v1/24px.svg)
     static const IconData settingsInputComposite = _OMIconData(0xec3e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_input_hdmi-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_input_hdmi/v1/24px.svg)
     static const IconData settingsInputHdmi = _OMIconData(0xec3f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_input_svideo-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_input_svideo/v1/24px.svg)
     static const IconData settingsInputSvideo = _OMIconData(0xec40);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_overscan-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_overscan/v1/24px.svg)
     static const IconData settingsOverscan = _OMIconData(0xec41);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_phone-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_phone/v1/24px.svg)
     static const IconData settingsPhone = _OMIconData(0xec42);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_power-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_power/v1/24px.svg)
     static const IconData settingsPower = _OMIconData(0xec43);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_remote-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_remote/v1/24px.svg)
     static const IconData settingsRemote = _OMIconData(0xec44);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_system_daydream-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_system_daydream/v1/24px.svg)
     static const IconData settingsSystemDaydream = _OMIconData(0xec45);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings_voice-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings_voice/v1/24px.svg)
     static const IconData settingsVoice = _OMIconData(0xec46);
-    /// ![](https://material.io/tools/icons/static/icons/outline-settings-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/settings/v1/24px.svg)
     static const IconData settings = _OMIconData(0xec47);
-    /// ![](https://material.io/tools/icons/static/icons/outline-share-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/share/v1/24px.svg)
     static const IconData share = _OMIconData(0xec48);
-    /// ![](https://material.io/tools/icons/static/icons/outline-shop_two-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/shop_two/v1/24px.svg)
     static const IconData shopTwo = _OMIconData(0xec49);
-    /// ![](https://material.io/tools/icons/static/icons/outline-shop-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/shop/v1/24px.svg)
     static const IconData shop = _OMIconData(0xec4a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-shopping_basket-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/shopping_basket/v1/24px.svg)
     static const IconData shoppingBasket = _OMIconData(0xec4b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-shopping_cart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/shopping_cart/v1/24px.svg)
     static const IconData shoppingCart = _OMIconData(0xec4c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-short_text-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/short_text/v1/24px.svg)
     static const IconData shortText = _OMIconData(0xec4d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-show_chart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/show_chart/v1/24px.svg)
     static const IconData showChart = _OMIconData(0xec4e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-shuffle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/shuffle/v1/24px.svg)
     static const IconData shuffle = _OMIconData(0xec4f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-shutter_speed-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/shutter_speed/v1/24px.svg)
     static const IconData shutterSpeed = _OMIconData(0xec50);
     /// ![](https://material.io/tools/icons/static/icons/outline-signal_cellular_4_bar-24px.svg)
     static const IconData signalCellular4Bar = _OMIconData(0xec58);
-    /// ![](https://material.io/tools/icons/static/icons/outline-signal_cellular_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/signal_cellular_alt/v1/24px.svg)
     static const IconData signalCellularAlt = _OMIconData(0xec59);
     /// ![](https://material.io/tools/icons/static/icons/outline-signal_cellular_connected_no_internet_4_bar-24px.svg)
     static const IconData signalCellularConnectedNoInternet4 = _OMIconData(0xec62);
-    /// ![](https://material.io/tools/icons/static/icons/outline-signal_cellular_no_sim-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/signal_cellular_no_sim/v1/24px.svg)
     static const IconData signalCellularNoSim = _OMIconData(0xec63);
-    /// ![](https://material.io/tools/icons/static/icons/outline-signal_cellular_null-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/signal_cellular_null/v1/24px.svg)
     static const IconData signalCellularNull = _OMIconData(0xec64);
-    /// ![](https://material.io/tools/icons/static/icons/outline-signal_cellular_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/signal_cellular_off/v1/24px.svg)
     static const IconData signalCellularOff = _OMIconData(0xec65);
     /// ![](https://material.io/tools/icons/static/icons/outline-signal_wifi_4_bar_lock-24px.svg)
     static const IconData signalWifi4BarLock = _OMIconData(0xec76);
     /// ![](https://material.io/tools/icons/static/icons/outline-signal_wifi_4_bar-24px.svg)
     static const IconData signalWifi4Bar = _OMIconData(0xec77);
-    /// ![](https://material.io/tools/icons/static/icons/outline-signal_wifi_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/signal_wifi_off/v1/24px.svg)
     static const IconData signalWifiOff = _OMIconData(0xec78);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sim_card-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sim_card/v1/24px.svg)
     static const IconData simCard = _OMIconData(0xec79);
-    /// ![](https://material.io/tools/icons/static/icons/outline-skip_next-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/skip_next/v1/24px.svg)
     static const IconData skipNext = _OMIconData(0xec7a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-skip_previous-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/skip_previous/v1/24px.svg)
     static const IconData skipPrevious = _OMIconData(0xec7b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-slideshow-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/slideshow/v1/24px.svg)
     static const IconData slideshow = _OMIconData(0xec7c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-slow_motion_video-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/slow_motion_video/v1/24px.svg)
     static const IconData slowMotionVideo = _OMIconData(0xec7d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-smartphone-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/smartphone/v1/24px.svg)
     static const IconData smartphone = _OMIconData(0xec7e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-smoke_free-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/smoke_free/v1/24px.svg)
     static const IconData smokeFree = _OMIconData(0xec7f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-smoking_rooms-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/smoking_rooms/v1/24px.svg)
     static const IconData smokingRooms = _OMIconData(0xec80);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sms_failed-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sms_failed/v1/24px.svg)
     static const IconData smsFailed = _OMIconData(0xec81);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sms-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sms/v1/24px.svg)
     static const IconData sms = _OMIconData(0xec82);
-    /// ![](https://material.io/tools/icons/static/icons/outline-snooze-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/snooze/v1/24px.svg)
     static const IconData snooze = _OMIconData(0xec83);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sort_by_alpha-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sort_by_alpha/v1/24px.svg)
     static const IconData sortByAlpha = _OMIconData(0xec84);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sort-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sort/v1/24px.svg)
     static const IconData sort = _OMIconData(0xec85);
-    /// ![](https://material.io/tools/icons/static/icons/outline-spa-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/spa/v1/24px.svg)
     static const IconData spa = _OMIconData(0xec86);
-    /// ![](https://material.io/tools/icons/static/icons/outline-space_bar-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/space_bar/v1/24px.svg)
     static const IconData spaceBar = _OMIconData(0xec87);
-    /// ![](https://material.io/tools/icons/static/icons/outline-speaker_group-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/speaker_group/v1/24px.svg)
     static const IconData speakerGroup = _OMIconData(0xec88);
-    /// ![](https://material.io/tools/icons/static/icons/outline-speaker_notes_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/speaker_notes_off/v1/24px.svg)
     static const IconData speakerNotesOff = _OMIconData(0xec89);
-    /// ![](https://material.io/tools/icons/static/icons/outline-speaker_notes-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/speaker_notes/v1/24px.svg)
     static const IconData speakerNotes = _OMIconData(0xec8a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-speaker_phone-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/speaker_phone/v1/24px.svg)
     static const IconData speakerPhone = _OMIconData(0xec8b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-speaker-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/speaker/v1/24px.svg)
     static const IconData speaker = _OMIconData(0xec8c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-spellcheck-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/spellcheck/v1/24px.svg)
     static const IconData spellcheck = _OMIconData(0xec8d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-star_border-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/star_border/v1/24px.svg)
     static const IconData starBorder = _OMIconData(0xec8e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-star_half-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/star_half/v1/24px.svg)
     static const IconData starHalf = _OMIconData(0xec8f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-star-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/star/v1/24px.svg)
     static const IconData star = _OMIconData(0xec90);
-    /// ![](https://material.io/tools/icons/static/icons/outline-stars-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/stars/v1/24px.svg)
     static const IconData stars = _OMIconData(0xec91);
-    /// ![](https://material.io/tools/icons/static/icons/outline-stay_current_landscape-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/stay_current_landscape/v1/24px.svg)
     static const IconData stayCurrentLandscape = _OMIconData(0xec92);
-    /// ![](https://material.io/tools/icons/static/icons/outline-stay_current_portrait-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/stay_current_portrait/v1/24px.svg)
     static const IconData stayCurrentPortrait = _OMIconData(0xec93);
-    /// ![](https://material.io/tools/icons/static/icons/outline-stay_primary_landscape-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/stay_primary_landscape/v1/24px.svg)
     static const IconData stayPrimaryLandscape = _OMIconData(0xec94);
-    /// ![](https://material.io/tools/icons/static/icons/outline-stay_primary_portrait-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/stay_primary_portrait/v1/24px.svg)
     static const IconData stayPrimaryPortrait = _OMIconData(0xec95);
-    /// ![](https://material.io/tools/icons/static/icons/outline-stop_screen_share-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/stop_screen_share/v1/24px.svg)
     static const IconData stopScreenShare = _OMIconData(0xec96);
-    /// ![](https://material.io/tools/icons/static/icons/outline-stop-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/stop/v1/24px.svg)
     static const IconData stop = _OMIconData(0xec97);
-    /// ![](https://material.io/tools/icons/static/icons/outline-storage-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/storage/v1/24px.svg)
     static const IconData storage = _OMIconData(0xec98);
-    /// ![](https://material.io/tools/icons/static/icons/outline-store_mall_directory-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/store_mall_directory/v1/24px.svg)
     static const IconData storeMallDirectory = _OMIconData(0xec99);
-    /// ![](https://material.io/tools/icons/static/icons/outline-store-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/store/v1/24px.svg)
     static const IconData store = _OMIconData(0xec9a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-straighten-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/straighten/v1/24px.svg)
     static const IconData straighten = _OMIconData(0xec9b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-streetview-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/streetview/v1/24px.svg)
     static const IconData streetview = _OMIconData(0xec9c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-strikethrough_s-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/strikethrough_s/v1/24px.svg)
     static const IconData strikethroughS = _OMIconData(0xec9d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-style-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/style/v1/24px.svg)
     static const IconData style = _OMIconData(0xec9e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-subdirectory_arrow_left-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/subdirectory_arrow_left/v1/24px.svg)
     static const IconData subdirectoryArrowLeft = _OMIconData(0xec9f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-subdirectory_arrow_right-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/subdirectory_arrow_right/v1/24px.svg)
     static const IconData subdirectoryArrowRight = _OMIconData(0xeca0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-subject-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/subject/v1/24px.svg)
     static const IconData subject = _OMIconData(0xeca1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-subscriptions-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/subscriptions/v1/24px.svg)
     static const IconData subscriptions = _OMIconData(0xeca2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-subtitles-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/subtitles/v1/24px.svg)
     static const IconData subtitles = _OMIconData(0xeca3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-subway-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/subway/v1/24px.svg)
     static const IconData subway = _OMIconData(0xeca4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-supervised_user_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/supervised_user_circle/v1/24px.svg)
     static const IconData supervisedUserCircle = _OMIconData(0xeca5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-supervisor_account-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/supervisor_account/v1/24px.svg)
     static const IconData supervisorAccount = _OMIconData(0xeca6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-surround_sound-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/surround_sound/v1/24px.svg)
     static const IconData surroundSound = _OMIconData(0xeca7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-swap_calls-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/swap_calls/v1/24px.svg)
     static const IconData swapCalls = _OMIconData(0xeca8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-swap_horiz-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/swap_horiz/v1/24px.svg)
     static const IconData swapHoriz = _OMIconData(0xeca9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-swap_horizontal_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/swap_horizontal_circle/v1/24px.svg)
     static const IconData swapHorizontalCircle = _OMIconData(0xecaa);
-    /// ![](https://material.io/tools/icons/static/icons/outline-swap_vert-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/swap_vert/v1/24px.svg)
     static const IconData swapVert = _OMIconData(0xecab);
-    /// ![](https://material.io/tools/icons/static/icons/outline-swap_vertical_circle-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/swap_vertical_circle/v1/24px.svg)
     static const IconData swapVerticalCircle = _OMIconData(0xecac);
-    /// ![](https://material.io/tools/icons/static/icons/outline-switch_camera-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/switch_camera/v1/24px.svg)
     static const IconData switchCamera = _OMIconData(0xecad);
-    /// ![](https://material.io/tools/icons/static/icons/outline-switch_video-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/switch_video/v1/24px.svg)
     static const IconData switchVideo = _OMIconData(0xecae);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sync_disabled-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sync_disabled/v1/24px.svg)
     static const IconData syncDisabled = _OMIconData(0xecaf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sync_problem-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sync_problem/v1/24px.svg)
     static const IconData syncProblem = _OMIconData(0xecb0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-sync-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/sync/v1/24px.svg)
     static const IconData syncIcon = _OMIconData(0xecb1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-system_update-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/system_update/v1/24px.svg)
     static const IconData systemUpdate = _OMIconData(0xecb2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tab_unselected-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tab_unselected/v1/24px.svg)
     static const IconData tabUnselected = _OMIconData(0xecb3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tab-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tab/v1/24px.svg)
     static const IconData tab = _OMIconData(0xecb4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-table_chart-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/table_chart/v1/24px.svg)
     static const IconData tableChart = _OMIconData(0xecb5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tablet_android-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tablet_android/v1/24px.svg)
     static const IconData tabletAndroid = _OMIconData(0xecb6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tablet_mac-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tablet_mac/v1/24px.svg)
     static const IconData tabletMac = _OMIconData(0xecb7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tablet-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tablet/v1/24px.svg)
     static const IconData tablet = _OMIconData(0xecb8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tag_faces-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tag_faces/v1/24px.svg)
     static const IconData tagFaces = _OMIconData(0xecb9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tap_and_play-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tap_and_play/v1/24px.svg)
     static const IconData tapAndPlay = _OMIconData(0xecba);
-    /// ![](https://material.io/tools/icons/static/icons/outline-terrain-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/terrain/v1/24px.svg)
     static const IconData terrain = _OMIconData(0xecbb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-text_fields-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/text_fields/v1/24px.svg)
     static const IconData textFields = _OMIconData(0xecbc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-text_format-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/text_format/v1/24px.svg)
     static const IconData textFormat = _OMIconData(0xecbd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-text_rotate_up-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/text_rotate_up/v1/24px.svg)
     static const IconData textRotateUp = _OMIconData(0xecbe);
-    /// ![](https://material.io/tools/icons/static/icons/outline-text_rotate_vertical-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/text_rotate_vertical/v1/24px.svg)
     static const IconData textRotateVertical = _OMIconData(0xecbf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-text_rotation_down-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/text_rotation_down/v1/24px.svg)
     static const IconData textRotationDown = _OMIconData(0xecc0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-text_rotation_none-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/text_rotation_none/v1/24px.svg)
     static const IconData textRotationNone = _OMIconData(0xecc1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-textsms-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/textsms/v1/24px.svg)
     static const IconData textsms = _OMIconData(0xecc2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-texture-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/texture/v1/24px.svg)
     static const IconData texture = _OMIconData(0xecc3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-theaters-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/theaters/v1/24px.svg)
     static const IconData theaters = _OMIconData(0xecc4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-thumb_down_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/thumb_down_alt/v1/24px.svg)
     static const IconData thumbDownAlt = _OMIconData(0xecc5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-thumb_down-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/thumb_down/v1/24px.svg)
     static const IconData thumbDown = _OMIconData(0xecc6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-thumb_up_alt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/thumb_up_alt/v1/24px.svg)
     static const IconData thumbUpAlt = _OMIconData(0xecc7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-thumb_up-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/thumb_up/v1/24px.svg)
     static const IconData thumbUp = _OMIconData(0xecc8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-thumbs_up_down-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/thumbs_up_down/v1/24px.svg)
     static const IconData thumbsUpDown = _OMIconData(0xecc9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-time_to_leave-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/time_to_leave/v1/24px.svg)
     static const IconData timeToLeave = _OMIconData(0xecca);
-    /// ![](https://material.io/tools/icons/static/icons/outline-timelapse-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/timelapse/v1/24px.svg)
     static const IconData timelapse = _OMIconData(0xeccb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-timeline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/timeline/v1/24px.svg)
     static const IconData timeline = _OMIconData(0xeccc);
     /// ![](https://material.io/tools/icons/static/icons/outline-timer_3-24px.svg)
     static const IconData timer3 = _OMIconData(0xeccd);
     /// ![](https://material.io/tools/icons/static/icons/outline-timer_10-24px.svg)
     static const IconData timer10 = _OMIconData(0xecce);
-    /// ![](https://material.io/tools/icons/static/icons/outline-timer_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/timer_off/v1/24px.svg)
     static const IconData timerOff = _OMIconData(0xeccf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-timer-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/timer/v1/24px.svg)
     static const IconData timer = _OMIconData(0xecd0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-title-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/title/v1/24px.svg)
     static const IconData title = _OMIconData(0xecd1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-toc-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/toc/v1/24px.svg)
     static const IconData toc = _OMIconData(0xecd2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-today-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/today/v1/24px.svg)
     static const IconData today = _OMIconData(0xecd3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-toggle_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/toggle_off/v1/24px.svg)
     static const IconData toggleOff = _OMIconData(0xecd4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-toggle_on-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/toggle_on/v1/24px.svg)
     static const IconData toggleOn = _OMIconData(0xecd5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-toll-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/toll/v1/24px.svg)
     static const IconData toll = _OMIconData(0xecd6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tonality-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tonality/v1/24px.svg)
     static const IconData tonality = _OMIconData(0xecd7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-touch_app-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/touch_app/v1/24px.svg)
     static const IconData touchApp = _OMIconData(0xecd8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-toys-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/toys/v1/24px.svg)
     static const IconData toys = _OMIconData(0xecd9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-track_changes-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/track_changes/v1/24px.svg)
     static const IconData trackChanges = _OMIconData(0xecda);
-    /// ![](https://material.io/tools/icons/static/icons/outline-traffic-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/traffic/v1/24px.svg)
     static const IconData traffic = _OMIconData(0xecdb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-train-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/train/v1/24px.svg)
     static const IconData train = _OMIconData(0xecdc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tram-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tram/v1/24px.svg)
     static const IconData tram = _OMIconData(0xecdd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-transfer_within_a_station-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/transfer_within_a_station/v1/24px.svg)
     static const IconData transferWithinAStation = _OMIconData(0xecde);
-    /// ![](https://material.io/tools/icons/static/icons/outline-transform-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/transform/v1/24px.svg)
     static const IconData transform = _OMIconData(0xecdf);
-    /// ![](https://material.io/tools/icons/static/icons/outline-transit_enterexit-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/transit_enterexit/v1/24px.svg)
     static const IconData transitEnterexit = _OMIconData(0xece0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-translate-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/translate/v1/24px.svg)
     static const IconData translate = _OMIconData(0xece1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-trending_down-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/trending_down/v1/24px.svg)
     static const IconData trendingDown = _OMIconData(0xece2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-trending_flat-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/trending_flat/v1/24px.svg)
     static const IconData trendingFlat = _OMIconData(0xece3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-trending_up-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/trending_up/v1/24px.svg)
     static const IconData trendingUp = _OMIconData(0xece4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-trip_origin-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/trip_origin/v1/24px.svg)
     static const IconData tripOrigin = _OMIconData(0xece5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tune-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tune/v1/24px.svg)
     static const IconData tune = _OMIconData(0xece6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-turned_in_not-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/turned_in_not/v1/24px.svg)
     static const IconData turnedInNot = _OMIconData(0xece7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-turned_in-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/turned_in/v1/24px.svg)
     static const IconData turnedIn = _OMIconData(0xece8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tv_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tv_off/v1/24px.svg)
     static const IconData tvOff = _OMIconData(0xece9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-tv-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/tv/v1/24px.svg)
     static const IconData tv = _OMIconData(0xecea);
-    /// ![](https://material.io/tools/icons/static/icons/outline-unarchive-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/unarchive/v1/24px.svg)
     static const IconData unarchive = _OMIconData(0xeceb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-undo-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/undo/v1/24px.svg)
     static const IconData undo = _OMIconData(0xecec);
-    /// ![](https://material.io/tools/icons/static/icons/outline-unfold_less-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/unfold_less/v1/24px.svg)
     static const IconData unfoldLess = _OMIconData(0xeced);
-    /// ![](https://material.io/tools/icons/static/icons/outline-unfold_more-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/unfold_more/v1/24px.svg)
     static const IconData unfoldMore = _OMIconData(0xecee);
-    /// ![](https://material.io/tools/icons/static/icons/outline-unsubscribe-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/unsubscribe/v1/24px.svg)
     static const IconData unsubscribe = _OMIconData(0xecef);
-    /// ![](https://material.io/tools/icons/static/icons/outline-update-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/update/v1/24px.svg)
     static const IconData update = _OMIconData(0xecf0);
-    /// ![](https://material.io/tools/icons/static/icons/outline-usb-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/usb/v1/24px.svg)
     static const IconData usb = _OMIconData(0xecf1);
-    /// ![](https://material.io/tools/icons/static/icons/outline-verified_user-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/verified_user/v1/24px.svg)
     static const IconData verifiedUser = _OMIconData(0xecf2);
-    /// ![](https://material.io/tools/icons/static/icons/outline-vertical_align_bottom-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/vertical_align_bottom/v1/24px.svg)
     static const IconData verticalAlignBottom = _OMIconData(0xecf3);
-    /// ![](https://material.io/tools/icons/static/icons/outline-vertical_align_center-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/vertical_align_center/v1/24px.svg)
     static const IconData verticalAlignCenter = _OMIconData(0xecf4);
-    /// ![](https://material.io/tools/icons/static/icons/outline-vertical_align_top-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/vertical_align_top/v1/24px.svg)
     static const IconData verticalAlignTop = _OMIconData(0xecf5);
-    /// ![](https://material.io/tools/icons/static/icons/outline-vertical_split-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/vertical_split/v1/24px.svg)
     static const IconData verticalSplit = _OMIconData(0xecf6);
-    /// ![](https://material.io/tools/icons/static/icons/outline-vibration-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/vibration/v1/24px.svg)
     static const IconData vibration = _OMIconData(0xecf7);
-    /// ![](https://material.io/tools/icons/static/icons/outline-video_call-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/video_call/v1/24px.svg)
     static const IconData videoCall = _OMIconData(0xecf8);
-    /// ![](https://material.io/tools/icons/static/icons/outline-video_label-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/video_label/v1/24px.svg)
     static const IconData videoLabel = _OMIconData(0xecf9);
-    /// ![](https://material.io/tools/icons/static/icons/outline-video_library-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/video_library/v1/24px.svg)
     static const IconData videoLibrary = _OMIconData(0xecfa);
-    /// ![](https://material.io/tools/icons/static/icons/outline-videocam_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/videocam_off/v1/24px.svg)
     static const IconData videocamOff = _OMIconData(0xecfb);
-    /// ![](https://material.io/tools/icons/static/icons/outline-videocam-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/videocam/v1/24px.svg)
     static const IconData videocam = _OMIconData(0xecfc);
-    /// ![](https://material.io/tools/icons/static/icons/outline-videogame_asset-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/videogame_asset/v1/24px.svg)
     static const IconData videogameAsset = _OMIconData(0xecfd);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_agenda-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_agenda/v1/24px.svg)
     static const IconData viewAgenda = _OMIconData(0xecfe);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_array-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_array/v1/24px.svg)
     static const IconData viewArray = _OMIconData(0xecff);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_carousel-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_carousel/v1/24px.svg)
     static const IconData viewCarousel = _OMIconData(0xed00);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_column-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_column/v1/24px.svg)
     static const IconData viewColumn = _OMIconData(0xed01);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_comfy-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_comfy/v1/24px.svg)
     static const IconData viewComfy = _OMIconData(0xed02);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_compact-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_compact/v1/24px.svg)
     static const IconData viewCompact = _OMIconData(0xed03);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_day-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_day/v1/24px.svg)
     static const IconData viewDay = _OMIconData(0xed04);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_headline-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_headline/v1/24px.svg)
     static const IconData viewHeadline = _OMIconData(0xed05);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_list-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_list/v1/24px.svg)
     static const IconData viewList = _OMIconData(0xed06);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_module-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_module/v1/24px.svg)
     static const IconData viewModule = _OMIconData(0xed07);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_quilt-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_quilt/v1/24px.svg)
     static const IconData viewQuilt = _OMIconData(0xed08);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_stream-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_stream/v1/24px.svg)
     static const IconData viewStream = _OMIconData(0xed09);
-    /// ![](https://material.io/tools/icons/static/icons/outline-view_week-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/view_week/v1/24px.svg)
     static const IconData viewWeek = _OMIconData(0xed0a);
-    /// ![](https://material.io/tools/icons/static/icons/outline-vignette-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/vignette/v1/24px.svg)
     static const IconData vignette = _OMIconData(0xed0b);
-    /// ![](https://material.io/tools/icons/static/icons/outline-visibility_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/visibility_off/v1/24px.svg)
     static const IconData visibilityOff = _OMIconData(0xed0c);
-    /// ![](https://material.io/tools/icons/static/icons/outline-visibility-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/visibility/v1/24px.svg)
     static const IconData visibility = _OMIconData(0xed0d);
-    /// ![](https://material.io/tools/icons/static/icons/outline-voice_chat-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/voice_chat/v1/24px.svg)
     static const IconData voiceChat = _OMIconData(0xed0e);
-    /// ![](https://material.io/tools/icons/static/icons/outline-voice_over_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/voice_over_off/v1/24px.svg)
     static const IconData voiceOverOff = _OMIconData(0xed0f);
-    /// ![](https://material.io/tools/icons/static/icons/outline-voicemail-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/voicemail/v1/24px.svg)
     static const IconData voicemail = _OMIconData(0xed10);
-    /// ![](https://material.io/tools/icons/static/icons/outline-volume_down-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/volume_down/v1/24px.svg)
     static const IconData volumeDown = _OMIconData(0xed11);
-    /// ![](https://material.io/tools/icons/static/icons/outline-volume_mute-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/volume_mute/v1/24px.svg)
     static const IconData volumeMute = _OMIconData(0xed12);
-    /// ![](https://material.io/tools/icons/static/icons/outline-volume_off-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/volume_off/v1/24px.svg)
     static const IconData volumeOff = _OMIconData(0xed13);
-    /// ![](https://material.io/tools/icons/static/icons/outline-volume_up-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/volume_up/v1/24px.svg)
     static const IconData volumeUp = _OMIconData(0xed14);
-    /// ![](https://material.io/tools/icons/static/icons/outline-vpn_key-24px.svg)
+    /// ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/vpn_key/v1/24px.svg)
     static const IconData vpnKey = _OMIconData(0xed15);
   /// ![](https://material.io/tools/icons/static/icons/outline-vpn_lock-24px.svg)
   static const IconData vpnLock = _OMIconData(0xed16);
