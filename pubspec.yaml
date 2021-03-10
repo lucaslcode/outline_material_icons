@@ -1,6 +1,6 @@
 name: outline_material_icons
 description: Provides the new outline theme of material design icons from Google.
-version: 0.2.0-nullsafety
+version: 0.2.0
 author: Lucas Levin <mail@lucasappco.com>
 homepage: https://github.com/lucaslcode/outline_material_icons
 
