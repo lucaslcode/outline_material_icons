@@ -1,4 +1,4 @@
-## [0.2.0-nullsafety] - 20/02/2021
+## [0.2.0] - 20/02/2021
 
 * Support nullsafety
 
