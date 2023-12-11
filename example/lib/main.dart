@@ -14,17 +14,16 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
-
-  final String title;
+  String title = '';
+  MyHomePage({this.title = ''});
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String selectedName;
-  IconData selectedIcon;
+  String selectedName = '';
+  IconData selectedIcon = IconData(1);
 
   @override
   Widget build(BuildContext context) {
@@ -41,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 selectedIcon != null ? Icon(selectedIcon, size: 48.0) : Container(),
                 Flexible(child: Text(
                   selectedName ?? "Select an icon",
-                  style: Theme.of(context).textTheme.subhead,
+                  style: Theme.of(context).textTheme.subtitle1,
                   overflow: TextOverflow.ellipsis,
                 )),
               ],
@@ -56,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
               itemBuilder: (context, index) => InkWell(
                 onTap: () {
                   selectedName = OMIcons.codePoints.keys.toList()[index];
-                  selectedIcon = IconData(OMIcons.codePoints[selectedName], fontFamily: 'outline_material_icons', fontPackage: 'outline_material_icons');
+                  selectedIcon = IconData(OMIcons.codePoints[selectedName]!, fontFamily: 'outline_material_icons', fontPackage: 'outline_material_icons');
                   setState(() {});
                 },
                 child: Icon(IconData(OMIcons.codePoints.values.toList()[index], fontFamily: 'outline_material_icons', fontPackage: 'outline_material_icons')),
