@@ -1,3 +1,7 @@
+## [1.0.0] - 11/12/2023
+
+* Add null safety compatibility, thanks to abeticlairon
+
 ## [0.1.1] - 13/10/2019
 
 * Updated icon image urls in docs
